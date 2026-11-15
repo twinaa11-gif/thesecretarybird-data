@@ -1,0 +1,1402 @@
+{
+  "journal": "SecretaryBird — The Medical Travel Journal",
+  "edition_series": "Collector Edition · November 2026",
+  "total_languages": 17,
+  "issues_per_language": 3,
+  "total_magazines": 51,
+  "pages_per_issue": 8,
+  "catalog_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/Contents.html",
+  "covers": {
+    "01": {
+      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+    },
+    "02": {
+      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+    },
+    "03": {
+      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+    }
+  },
+  "languages": {
+    "en": {
+      "code": "en",
+      "english_name": "English",
+      "native_name": "English",
+      "direction": "ltr",
+      "journal_label": "THE MEDICAL TRAVEL JOURNAL",
+      "collector_label": "COLLECTOR EDITION",
+      "date_label": "NOVEMBER 2026",
+      "section_title": "The Medical Travel Journal · Collector Editions",
+      "section_subtitle": "Three 8-page collector magazines in 17 languages — covering your care journey, destination verification, and recovery planning.",
+      "read_btn_label": "Read Magazine (PDF)",
+      "all_editions_label": "All 17 Languages (51 PDFs)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "The Care Journey",
+          "subtitle": "A considered beginning to care abroad",
+          "cover_lines": [
+            "Build a shortlist with substance",
+            "The questions behind a clear quotation",
+            "Your personal decision notebook"
+          ],
+          "intro_title": "Begin with better questions.",
+          "summary": "Build a shortlist with substance · The questions behind a clear quotation · Your personal decision notebook",
+          "badge": "COLLECTOR EDITION 01",
+          "date_label": "NOVEMBER 2026",
+          "pages": 8,
+          "size_kb": 3947.3,
+          "pdf_path": "en/SecretaryBird_01_The_Care_Journey_EN.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/en/SecretaryBird_01_The_Care_Journey_EN.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/en/SecretaryBird_01_The_Care_Journey_EN.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "The Destination Edit",
+          "subtitle": "India · Thailand · Türkiye",
+          "cover_lines": [
+            "Three destinations, a more thoughtful lens",
+            "Where to check the claims that matter",
+            "Compare the details behind the destination"
+          ],
+          "intro_title": "The country is only the beginning.",
+          "summary": "Three destinations, a more thoughtful lens · Where to check the claims that matter · Compare the details behind the destination",
+          "badge": "COLLECTOR EDITION 02",
+          "date_label": "NOVEMBER 2026",
+          "pages": 8,
+          "size_kb": 3967.9,
+          "pdf_path": "en/SecretaryBird_02_The_Destination_Edit_EN.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/en/SecretaryBird_02_The_Destination_Edit_EN.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/en/SecretaryBird_02_The_Destination_Edit_EN.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "The Recovery Companion",
+          "subtitle": "Thoughtful planning for the days after care",
+          "cover_lines": [
+            "Create a stay that supports your plan",
+            "A clearer handover before you leave",
+            "The journey home begins with preparation"
+          ],
+          "intro_title": "Leave room for the days after.",
+          "summary": "Create a stay that supports your plan · A clearer handover before you leave · The journey home begins with preparation",
+          "badge": "COLLECTOR EDITION 03",
+          "date_label": "NOVEMBER 2026",
+          "pages": 8,
+          "size_kb": 3411.2,
+          "pdf_path": "en/SecretaryBird_03_The_Recovery_Companion_EN.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/en/SecretaryBird_03_The_Recovery_Companion_EN.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/en/SecretaryBird_03_The_Recovery_Companion_EN.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "ru": {
+      "code": "ru",
+      "english_name": "Russian",
+      "native_name": "Русский",
+      "direction": "ltr",
+      "journal_label": "Журнал о медицинских путешествиях",
+      "collector_label": "Коллекционный выпуск",
+      "date_label": "Ноябрь 2026",
+      "section_title": "Журнал медицинского туризма · Коллекционные выпуски",
+      "section_subtitle": "Три 8-страничных журнала на 17 языках: маршрут лечения, проверка клиник и планирование восстановления.",
+      "read_btn_label": "Читать журнал (PDF)",
+      "all_editions_label": "Все 17 языков (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Путь к лечению",
+          "subtitle": "Взвешенное начало лечения за рубежом",
+          "cover_lines": [
+            "Составьте содержательный список вариантов",
+            "Вопросы, стоящие за понятной сметой",
+            "Ваш личный блокнот решений"
+          ],
+          "intro_title": "Начните с точных вопросов.",
+          "summary": "Составьте содержательный список вариантов · Вопросы, стоящие за понятной сметой · Ваш личный блокнот решений",
+          "badge": "Коллекционный выпуск 01",
+          "date_label": "Ноябрь 2026",
+          "pages": 8,
+          "size_kb": 1109.9,
+          "pdf_path": "ru/SecretaryBird_01_The_Care_Journey_RU.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ru/SecretaryBird_01_The_Care_Journey_RU.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ru/SecretaryBird_01_The_Care_Journey_RU.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Обзор направлений",
+          "subtitle": "Индия · Таиланд · Турция",
+          "cover_lines": [
+            "Три направления: более внимательный взгляд",
+            "Где проверять важные заявления",
+            "Сравнивайте детали, стоящие за направлением"
+          ],
+          "intro_title": "Страна - лишь начало.",
+          "summary": "Три направления: более внимательный взгляд · Где проверять важные заявления · Сравнивайте детали, стоящие за направлением",
+          "badge": "Коллекционный выпуск 02",
+          "date_label": "Ноябрь 2026",
+          "pages": 8,
+          "size_kb": 1251.3,
+          "pdf_path": "ru/SecretaryBird_02_The_Destination_Edit_RU.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ru/SecretaryBird_02_The_Destination_Edit_RU.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ru/SecretaryBird_02_The_Destination_Edit_RU.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Спутник восстановления",
+          "subtitle": "Продуманное планирование дней после лечения",
+          "cover_lines": [
+            "Организуйте пребывание под свой план",
+            "Понятная передача информации перед отъездом",
+            "Возвращение домой начинается с подготовки"
+          ],
+          "intro_title": "Оставьте место для дней после лечения.",
+          "summary": "Организуйте пребывание под свой план · Понятная передача информации перед отъездом · Возвращение домой начинается с подготовки",
+          "badge": "Коллекционный выпуск 03",
+          "date_label": "Ноябрь 2026",
+          "pages": 8,
+          "size_kb": 868.3,
+          "pdf_path": "ru/SecretaryBird_03_The_Recovery_Companion_RU.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ru/SecretaryBird_03_The_Recovery_Companion_RU.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ru/SecretaryBird_03_The_Recovery_Companion_RU.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "ar": {
+      "code": "ar",
+      "english_name": "Arabic",
+      "native_name": "العربية",
+      "direction": "rtl",
+      "journal_label": "مجلة السفر للعلاج",
+      "collector_label": "إصدار خاص للاقتناء",
+      "date_label": "نوفمبر 2026",
+      "section_title": "مجلة السفر العلاجي · الإصدارات الخاصة",
+      "section_subtitle": "ثلاث مجلات مرجعية (8 صفحات لكل إصدار) بـ 17 لغة — تغطي رحلة الرعاية، والتحقق من الوجهات، والتخطيط للتعافي.",
+      "read_btn_label": "اقرأ المجلة (PDF)",
+      "all_editions_label": "جميع اللغات الـ 17 (51 مجلة PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "رحلة الرعاية",
+          "subtitle": "بداية مدروسة للرعاية في الخارج",
+          "cover_lines": [
+            "ابنِ قائمة مختصرة تستند إلى معلومات واضحة",
+            "الأسئلة التي تجعل عرض التكلفة واضحًا",
+            "دفترك الشخصي لاتخاذ القرار"
+          ],
+          "intro_title": "ابدأ بأسئلة أفضل.",
+          "summary": "ابنِ قائمة مختصرة تستند إلى معلومات واضحة · الأسئلة التي تجعل عرض التكلفة واضحًا · دفترك الشخصي لاتخاذ القرار",
+          "badge": "إصدار خاص للاقتناء 01",
+          "date_label": "نوفمبر 2026",
+          "pages": 8,
+          "size_kb": 1186.2,
+          "pdf_path": "ar/SecretaryBird_01_The_Care_Journey_AR.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ar/SecretaryBird_01_The_Care_Journey_AR.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ar/SecretaryBird_01_The_Care_Journey_AR.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "دليل الوجهات",
+          "subtitle": "الهند · تايلاند · تركيا",
+          "cover_lines": [
+            "ثلاث وجهات بنظرة أكثر تأنيًا",
+            "أين تتحقق من المعلومات المهمة",
+            "قارن التفاصيل وراء اسم الوجهة"
+          ],
+          "intro_title": "البلد ليس سوى البداية.",
+          "summary": "ثلاث وجهات بنظرة أكثر تأنيًا · أين تتحقق من المعلومات المهمة · قارن التفاصيل وراء اسم الوجهة",
+          "badge": "إصدار خاص للاقتناء 02",
+          "date_label": "نوفمبر 2026",
+          "pages": 8,
+          "size_kb": 1328.8,
+          "pdf_path": "ar/SecretaryBird_02_The_Destination_Edit_AR.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ar/SecretaryBird_02_The_Destination_Edit_AR.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ar/SecretaryBird_02_The_Destination_Edit_AR.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "رفيق التعافي",
+          "subtitle": "تخطيط مدروس للأيام التالية للعلاج",
+          "cover_lines": [
+            "رتّب إقامة تدعم خطتك",
+            "تسليم أوضح للمعلومات قبل المغادرة",
+            "رحلة العودة تبدأ بالاستعداد"
+          ],
+          "intro_title": "اترك مساحة للأيام التالية.",
+          "summary": "رتّب إقامة تدعم خطتك · تسليم أوضح للمعلومات قبل المغادرة · رحلة العودة تبدأ بالاستعداد",
+          "badge": "إصدار خاص للاقتناء 03",
+          "date_label": "نوفمبر 2026",
+          "pages": 8,
+          "size_kb": 945.3,
+          "pdf_path": "ar/SecretaryBird_03_The_Recovery_Companion_AR.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ar/SecretaryBird_03_The_Recovery_Companion_AR.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ar/SecretaryBird_03_The_Recovery_Companion_AR.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "uk": {
+      "code": "uk",
+      "english_name": "Ukrainian",
+      "native_name": "Українська",
+      "direction": "ltr",
+      "journal_label": "Журнал про медичні подорожі",
+      "collector_label": "Колекційний випуск",
+      "date_label": "Листопад 2026",
+      "section_title": "Журнал медичного туризму · Колекційні випуски",
+      "section_subtitle": "Три 8-сторінкові журнали 17 мовами: шлях до лікування, перевірка клінік та планування відновлення.",
+      "read_btn_label": "Читати журнал (PDF)",
+      "all_editions_label": "Усі 17 мов (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Шлях до лікування",
+          "subtitle": "Зважений початок лікування за кордоном",
+          "cover_lines": [
+            "Складіть змістовний список варіантів",
+            "Запитання, що стоять за зрозумілим кошторисом",
+            "Ваш особистий записник рішень"
+          ],
+          "intro_title": "Почніть із точних запитань.",
+          "summary": "Складіть змістовний список варіантів · Запитання, що стоять за зрозумілим кошторисом · Ваш особистий записник рішень",
+          "badge": "Колекційний випуск 01",
+          "date_label": "Листопад 2026",
+          "pages": 8,
+          "size_kb": 1109.8,
+          "pdf_path": "uk/SecretaryBird_01_The_Care_Journey_UK.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/uk/SecretaryBird_01_The_Care_Journey_UK.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/uk/SecretaryBird_01_The_Care_Journey_UK.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Огляд напрямків",
+          "subtitle": "Індія · Таїланд · Туреччина",
+          "cover_lines": [
+            "Три напрямки: уважніший погляд",
+            "Де перевіряти важливі твердження",
+            "Порівнюйте деталі, що стоять за напрямком"
+          ],
+          "intro_title": "Країна - лише початок.",
+          "summary": "Три напрямки: уважніший погляд · Де перевіряти важливі твердження · Порівнюйте деталі, що стоять за напрямком",
+          "badge": "Колекційний випуск 02",
+          "date_label": "Листопад 2026",
+          "pages": 8,
+          "size_kb": 1251.4,
+          "pdf_path": "uk/SecretaryBird_02_The_Destination_Edit_UK.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/uk/SecretaryBird_02_The_Destination_Edit_UK.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/uk/SecretaryBird_02_The_Destination_Edit_UK.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Супутник відновлення",
+          "subtitle": "Продумане планування днів після лікування",
+          "cover_lines": [
+            "Організуйте перебування під свій план",
+            "Зрозуміле передавання інформації перед від’їздом",
+            "Повернення додому починається з підготовки"
+          ],
+          "intro_title": "Залиште місце для днів після лікування.",
+          "summary": "Організуйте перебування під свій план · Зрозуміле передавання інформації перед від’їздом · Повернення додому починається з підготовки",
+          "badge": "Колекційний випуск 03",
+          "date_label": "Листопад 2026",
+          "pages": 8,
+          "size_kb": 868.6,
+          "pdf_path": "uk/SecretaryBird_03_The_Recovery_Companion_UK.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/uk/SecretaryBird_03_The_Recovery_Companion_UK.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/uk/SecretaryBird_03_The_Recovery_Companion_UK.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "kk": {
+      "code": "kk",
+      "english_name": "Kazakh",
+      "native_name": "Қазақ тілі",
+      "direction": "ltr",
+      "journal_label": "Емделу сапарлары журналы",
+      "collector_label": "Коллекциялық шығарылым",
+      "date_label": "2026 жылғы қараша",
+      "section_title": "Медициналық саяхат журналы · Коллекциялық басылымдар",
+      "section_subtitle": "17 тілдегі үш 8 беттік журнал: емделу жолы, бағыттарды тексеру және қалпына келуді жоспарлау.",
+      "read_btn_label": "Журналды оқу (PDF)",
+      "all_editions_label": "Барлық 17 тіл (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Емделу жолы",
+          "subtitle": "Шетелде емделуді байыппен бастау",
+          "cover_lines": [
+            "Мазмұнды қысқа тізім жасаңыз",
+            "Түсінікті сметаның артындағы сұрақтар",
+            "Шешім қабылдауға арналған жеке қойындәптер"
+          ],
+          "intro_title": "Нақты сұрақтардан бастаңыз.",
+          "summary": "Мазмұнды қысқа тізім жасаңыз · Түсінікті сметаның артындағы сұрақтар · Шешім қабылдауға арналған жеке қойындәптер",
+          "badge": "Коллекциялық шығарылым 01",
+          "date_label": "2026 жылғы қараша",
+          "pages": 8,
+          "size_kb": 1109.2,
+          "pdf_path": "kk/SecretaryBird_01_The_Care_Journey_KK.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/kk/SecretaryBird_01_The_Care_Journey_KK.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/kk/SecretaryBird_01_The_Care_Journey_KK.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Бағыттарға шолу",
+          "subtitle": "Үндістан · Таиланд · Түркия",
+          "cover_lines": [
+            "Үш бағытқа байыпты көзқарас",
+            "Маңызды мәлімдемелерді қайдан тексеруге болады",
+            "Бағыт атауының артындағы деректерді салыстырыңыз"
+          ],
+          "intro_title": "Елді таңдау - тек бастамасы.",
+          "summary": "Үш бағытқа байыпты көзқарас · Маңызды мәлімдемелерді қайдан тексеруге болады · Бағыт атауының артындағы деректерді салыстырыңыз",
+          "badge": "Коллекциялық шығарылым 02",
+          "date_label": "2026 жылғы қараша",
+          "pages": 8,
+          "size_kb": 1250.8,
+          "pdf_path": "kk/SecretaryBird_02_The_Destination_Edit_KK.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/kk/SecretaryBird_02_The_Destination_Edit_KK.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/kk/SecretaryBird_02_The_Destination_Edit_KK.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Қалпына келу серігі",
+          "subtitle": "Емнен кейінгі күндерді мұқият жоспарлау",
+          "cover_lines": [
+            "Жоспарыңызға сай тұру жағдайын жасаңыз",
+            "Кетер алдында ақпаратты анық тапсыру",
+            "Үйге қайтар жол дайындықтан басталады"
+          ],
+          "intro_title": "Емнен кейінгі күндерге орын қалдырыңыз.",
+          "summary": "Жоспарыңызға сай тұру жағдайын жасаңыз · Кетер алдында ақпаратты анық тапсыру · Үйге қайтар жол дайындықтан басталады",
+          "badge": "Коллекциялық шығарылым 03",
+          "date_label": "2026 жылғы қараша",
+          "pages": 8,
+          "size_kb": 867.7,
+          "pdf_path": "kk/SecretaryBird_03_The_Recovery_Companion_KK.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/kk/SecretaryBird_03_The_Recovery_Companion_KK.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/kk/SecretaryBird_03_The_Recovery_Companion_KK.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "ja": {
+      "code": "ja",
+      "english_name": "Japanese",
+      "native_name": "日本語",
+      "direction": "ltr",
+      "journal_label": "医療渡航ジャーナル",
+      "collector_label": "保存版",
+      "date_label": "2026年11月",
+      "section_title": "メディカルトラベル・ジャーナル · コレクターズ版",
+      "section_subtitle": "17言語対応・全3巻（各8ページ）の医療渡航マガジン — 治療計画、渡航先の確認、回復期の準備を網羅。",
+      "read_btn_label": "マガジンを読む (PDF)",
+      "all_editions_label": "全17言語カタログ (51冊 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "医療への旅",
+          "subtitle": "海外での治療を、納得のいく一歩から",
+          "cover_lines": [
+            "確かな情報で候補を絞る",
+            "見積もりを明確にするための問い",
+            "自分のための判断ノート"
+          ],
+          "intro_title": "よりよい問いから始める。",
+          "summary": "確かな情報で候補を絞る · 見積もりを明確にするための問い · 自分のための判断ノート",
+          "badge": "保存版 01",
+          "date_label": "2026年11月",
+          "pages": 8,
+          "size_kb": 1152.8,
+          "pdf_path": "ja/SecretaryBird_01_The_Care_Journey_JA.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ja/SecretaryBird_01_The_Care_Journey_JA.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ja/SecretaryBird_01_The_Care_Journey_JA.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "渡航先ガイド",
+          "subtitle": "インド・タイ・トルコ",
+          "cover_lines": [
+            "三つの渡航先を、より丁寧な視点で",
+            "大切な情報をどこで確かめるか",
+            "渡航先の名前の先にある詳細を比べる"
+          ],
+          "intro_title": "国を選ぶのは、始まりにすぎない。",
+          "summary": "三つの渡航先を、より丁寧な視点で · 大切な情報をどこで確かめるか · 渡航先の名前の先にある詳細を比べる",
+          "badge": "保存版 02",
+          "date_label": "2026年11月",
+          "pages": 8,
+          "size_kb": 1289.2,
+          "pdf_path": "ja/SecretaryBird_02_The_Destination_Edit_JA.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ja/SecretaryBird_02_The_Destination_Edit_JA.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ja/SecretaryBird_02_The_Destination_Edit_JA.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "回復期のパートナー",
+          "subtitle": "治療後の日々を丁寧に計画する",
+          "cover_lines": [
+            "計画を支える滞在を整える",
+            "退院前に、より明確な引き継ぎを",
+            "帰国への道のりは準備から始まる"
+          ],
+          "intro_title": "治療後の日々にも、余白を。",
+          "summary": "計画を支える滞在を整える · 退院前に、より明確な引き継ぎを · 帰国への道のりは準備から始まる",
+          "badge": "保存版 03",
+          "date_label": "2026年11月",
+          "pages": 8,
+          "size_kb": 905.4,
+          "pdf_path": "ja/SecretaryBird_03_The_Recovery_Companion_JA.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ja/SecretaryBird_03_The_Recovery_Companion_JA.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ja/SecretaryBird_03_The_Recovery_Companion_JA.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "it": {
+      "code": "it",
+      "english_name": "Italian",
+      "native_name": "Italiano",
+      "direction": "ltr",
+      "journal_label": "La rivista dei viaggi per cure mediche",
+      "collector_label": "Edizione da collezione",
+      "date_label": "Novembre 2026",
+      "section_title": "Il Giornale del Viaggio Medico · Edizioni da Collezione",
+      "section_subtitle": "Tre riviste di 8 pagine in 17 lingue dedicate al percorso di cura, alla verifica delle destinazioni e al recupero.",
+      "read_btn_label": "Leggi la rivista (PDF)",
+      "all_editions_label": "Tutte le 17 lingue (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Il percorso di cura",
+          "subtitle": "Un inizio consapevole per le cure all'estero",
+          "cover_lines": [
+            "Costruisca una selezione su basi solide",
+            "Le domande dietro un preventivo chiaro",
+            "Il suo taccuino personale delle decisioni"
+          ],
+          "intro_title": "Cominci da domande migliori.",
+          "summary": "Costruisca una selezione su basi solide · Le domande dietro un preventivo chiaro · Il suo taccuino personale delle decisioni",
+          "badge": "Edizione da collezione 01",
+          "date_label": "Novembre 2026",
+          "pages": 8,
+          "size_kb": 1079.0,
+          "pdf_path": "it/SecretaryBird_01_The_Care_Journey_IT.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/it/SecretaryBird_01_The_Care_Journey_IT.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/it/SecretaryBird_01_The_Care_Journey_IT.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Le destinazioni in primo piano",
+          "subtitle": "India · Thailandia · Turchia",
+          "cover_lines": [
+            "Tre destinazioni, uno sguardo più consapevole",
+            "Dove verificare le informazioni che contano",
+            "Confronti i dettagli dietro la destinazione"
+          ],
+          "intro_title": "Il Paese è solo l'inizio.",
+          "summary": "Tre destinazioni, uno sguardo più consapevole · Dove verificare le informazioni che contano · Confronti i dettagli dietro la destinazione",
+          "badge": "Edizione da collezione 02",
+          "date_label": "Novembre 2026",
+          "pages": 8,
+          "size_kb": 1221.4,
+          "pdf_path": "it/SecretaryBird_02_The_Destination_Edit_IT.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/it/SecretaryBird_02_The_Destination_Edit_IT.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/it/SecretaryBird_02_The_Destination_Edit_IT.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "La guida al recupero",
+          "subtitle": "Pianificare con cura i giorni dopo il trattamento",
+          "cover_lines": [
+            "Organizzi un soggiorno adatto al suo piano",
+            "Un passaggio di informazioni più chiaro prima di partire",
+            "Il viaggio verso casa comincia dalla preparazione"
+          ],
+          "intro_title": "Lasci spazio ai giorni successivi.",
+          "summary": "Organizzi un soggiorno adatto al suo piano · Un passaggio di informazioni più chiaro prima di partire · Il viaggio verso casa comincia dalla preparazione",
+          "badge": "Edizione da collezione 03",
+          "date_label": "Novembre 2026",
+          "pages": 8,
+          "size_kb": 839.2,
+          "pdf_path": "it/SecretaryBird_03_The_Recovery_Companion_IT.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/it/SecretaryBird_03_The_Recovery_Companion_IT.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/it/SecretaryBird_03_The_Recovery_Companion_IT.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "es": {
+      "code": "es",
+      "english_name": "Spanish",
+      "native_name": "Español",
+      "direction": "ltr",
+      "journal_label": "La revista de los viajes médicos",
+      "collector_label": "Edición de colección",
+      "date_label": "Noviembre de 2026",
+      "section_title": "Revista de Viajes Médicos · Ediciones de Colección",
+      "section_subtitle": "Tres revistas de 8 páginas en 17 idiomas sobre el camino de la atención médica, destinos y recuperación.",
+      "read_btn_label": "Leer revista (PDF)",
+      "all_editions_label": "Los 17 idiomas (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "El camino de la atención médica",
+          "subtitle": "Un comienzo reflexivo para recibir atención en el extranjero",
+          "cover_lines": [
+            "Prepare una selección con fundamento",
+            "Las preguntas detrás de un presupuesto claro",
+            "Su cuaderno personal de decisiones"
+          ],
+          "intro_title": "Empiece con mejores preguntas.",
+          "summary": "Prepare una selección con fundamento · Las preguntas detrás de un presupuesto claro · Su cuaderno personal de decisiones",
+          "badge": "Edición de colección 01",
+          "date_label": "Noviembre de 2026",
+          "pages": 8,
+          "size_kb": 1080.8,
+          "pdf_path": "es/SecretaryBird_01_The_Care_Journey_ES.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/es/SecretaryBird_01_The_Care_Journey_ES.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/es/SecretaryBird_01_The_Care_Journey_ES.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Destinos en perspectiva",
+          "subtitle": "India · Tailandia · Turquía",
+          "cover_lines": [
+            "Tres destinos, una mirada más reflexiva",
+            "Dónde comprobar las afirmaciones que importan",
+            "Compare los detalles detrás del destino"
+          ],
+          "intro_title": "El país es solo el comienzo.",
+          "summary": "Tres destinos, una mirada más reflexiva · Dónde comprobar las afirmaciones que importan · Compare los detalles detrás del destino",
+          "badge": "Edición de colección 02",
+          "date_label": "Noviembre de 2026",
+          "pages": 8,
+          "size_kb": 1223.7,
+          "pdf_path": "es/SecretaryBird_02_The_Destination_Edit_ES.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/es/SecretaryBird_02_The_Destination_Edit_ES.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/es/SecretaryBird_02_The_Destination_Edit_ES.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "La guía de la recuperación",
+          "subtitle": "Planificación cuidadosa para los días posteriores al tratamiento",
+          "cover_lines": [
+            "Organice una estancia que apoye su plan",
+            "Un traspaso de información más claro antes de salir",
+            "El viaje a casa empieza con la preparación"
+          ],
+          "intro_title": "Deje espacio para los días posteriores.",
+          "summary": "Organice una estancia que apoye su plan · Un traspaso de información más claro antes de salir · El viaje a casa empieza con la preparación",
+          "badge": "Edición de colección 03",
+          "date_label": "Noviembre de 2026",
+          "pages": 8,
+          "size_kb": 840.8,
+          "pdf_path": "es/SecretaryBird_03_The_Recovery_Companion_ES.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/es/SecretaryBird_03_The_Recovery_Companion_ES.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/es/SecretaryBird_03_The_Recovery_Companion_ES.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "id": {
+      "code": "id",
+      "english_name": "Indonesian",
+      "native_name": "Bahasa Indonesia",
+      "direction": "ltr",
+      "journal_label": "Jurnal Perjalanan Medis",
+      "collector_label": "Edisi koleksi",
+      "date_label": "November 2026",
+      "section_title": "Jurnal Perjalanan Medis · Edisi Kolektor",
+      "section_subtitle": "Tiga majalah 8 halaman dalam 17 bahasa — panduan perjalanan perawatan, verifikasi destinasi, dan pemulihan.",
+      "read_btn_label": "Baca Majalah (PDF)",
+      "all_editions_label": "Semua 17 Bahasa (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Perjalanan Perawatan",
+          "subtitle": "Awal yang matang untuk perawatan di luar negeri",
+          "cover_lines": [
+            "Susun daftar pilihan yang berbobot",
+            "Pertanyaan di balik penawaran biaya yang jelas",
+            "Buku catatan keputusan pribadi Anda"
+          ],
+          "intro_title": "Mulailah dengan pertanyaan yang lebih baik.",
+          "summary": "Susun daftar pilihan yang berbobot · Pertanyaan di balik penawaran biaya yang jelas · Buku catatan keputusan pribadi Anda",
+          "badge": "Edisi koleksi 01",
+          "date_label": "November 2026",
+          "pages": 8,
+          "size_kb": 1076.3,
+          "pdf_path": "id/SecretaryBird_01_The_Care_Journey_ID.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/id/SecretaryBird_01_The_Care_Journey_ID.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/id/SecretaryBird_01_The_Care_Journey_ID.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Sorotan Destinasi",
+          "subtitle": "India · Thailand · Türkiye",
+          "cover_lines": [
+            "Tiga destinasi, pandangan yang lebih matang",
+            "Tempat memeriksa klaim yang penting",
+            "Bandingkan rincian di balik destinasi"
+          ],
+          "intro_title": "Negara hanyalah titik awal.",
+          "summary": "Tiga destinasi, pandangan yang lebih matang · Tempat memeriksa klaim yang penting · Bandingkan rincian di balik destinasi",
+          "badge": "Edisi koleksi 02",
+          "date_label": "November 2026",
+          "pages": 8,
+          "size_kb": 1219.5,
+          "pdf_path": "id/SecretaryBird_02_The_Destination_Edit_ID.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/id/SecretaryBird_02_The_Destination_Edit_ID.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/id/SecretaryBird_02_The_Destination_Edit_ID.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Pendamping Pemulihan",
+          "subtitle": "Perencanaan yang matang untuk hari-hari setelah perawatan",
+          "cover_lines": [
+            "Atur masa tinggal yang mendukung rencana Anda",
+            "Serah terima yang lebih jelas sebelum berangkat",
+            "Perjalanan pulang dimulai dengan persiapan"
+          ],
+          "intro_title": "Sisakan ruang untuk hari-hari berikutnya.",
+          "summary": "Atur masa tinggal yang mendukung rencana Anda · Serah terima yang lebih jelas sebelum berangkat · Perjalanan pulang dimulai dengan persiapan",
+          "badge": "Edisi koleksi 03",
+          "date_label": "November 2026",
+          "pages": 8,
+          "size_kb": 835.1,
+          "pdf_path": "id/SecretaryBird_03_The_Recovery_Companion_ID.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/id/SecretaryBird_03_The_Recovery_Companion_ID.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/id/SecretaryBird_03_The_Recovery_Companion_ID.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "pt": {
+      "code": "pt",
+      "english_name": "Portuguese",
+      "native_name": "Português",
+      "direction": "ltr",
+      "journal_label": "A revista das viagens para cuidados médicos",
+      "collector_label": "Edição de coleção",
+      "date_label": "Novembro de 2026",
+      "section_title": "Jornal de Viagens Médicas · Edições de Colecionador",
+      "section_subtitle": "Três revistas de 8 páginas em 17 idiomas sobre o percurso de cuidados, destinos em foco e recuperação.",
+      "read_btn_label": "Ler revista (PDF)",
+      "all_editions_label": "Todos os 17 idiomas (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "O percurso de cuidados",
+          "subtitle": "Um início ponderado para receber cuidados no estrangeiro",
+          "cover_lines": [
+            "Prepare uma seleção com fundamento",
+            "As perguntas por detrás de um orçamento claro",
+            "O seu caderno pessoal de decisões"
+          ],
+          "intro_title": "Comece com melhores perguntas.",
+          "summary": "Prepare uma seleção com fundamento · As perguntas por detrás de um orçamento claro · O seu caderno pessoal de decisões",
+          "badge": "Edição de coleção 01",
+          "date_label": "Novembro de 2026",
+          "pages": 8,
+          "size_kb": 1081.1,
+          "pdf_path": "pt/SecretaryBird_01_The_Care_Journey_PT.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pt/SecretaryBird_01_The_Care_Journey_PT.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pt/SecretaryBird_01_The_Care_Journey_PT.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Destinos em foco",
+          "subtitle": "Índia · Tailândia · Turquia",
+          "cover_lines": [
+            "Três destinos, um olhar mais ponderado",
+            "Onde verificar as afirmações que importam",
+            "Compare os detalhes por detrás do destino"
+          ],
+          "intro_title": "O país é apenas o começo.",
+          "summary": "Três destinos, um olhar mais ponderado · Onde verificar as afirmações que importam · Compare os detalhes por detrás do destino",
+          "badge": "Edição de coleção 02",
+          "date_label": "Novembro de 2026",
+          "pages": 8,
+          "size_kb": 1223.8,
+          "pdf_path": "pt/SecretaryBird_02_The_Destination_Edit_PT.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pt/SecretaryBird_02_The_Destination_Edit_PT.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pt/SecretaryBird_02_The_Destination_Edit_PT.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "O guia da recuperação",
+          "subtitle": "Planear com cuidado os dias após o tratamento",
+          "cover_lines": [
+            "Prepare uma estadia que apoie o seu plano",
+            "Uma transmissão de informações mais clara antes de partir",
+            "A viagem de regresso começa com a preparação"
+          ],
+          "intro_title": "Deixe espaço para os dias seguintes.",
+          "summary": "Prepare uma estadia que apoie o seu plano · Uma transmissão de informações mais clara antes de partir · A viagem de regresso começa com a preparação",
+          "badge": "Edição de coleção 03",
+          "date_label": "Novembro de 2026",
+          "pages": 8,
+          "size_kb": 841.1,
+          "pdf_path": "pt/SecretaryBird_03_The_Recovery_Companion_PT.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pt/SecretaryBird_03_The_Recovery_Companion_PT.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pt/SecretaryBird_03_The_Recovery_Companion_PT.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "de": {
+      "code": "de",
+      "english_name": "German",
+      "native_name": "Deutsch",
+      "direction": "ltr",
+      "journal_label": "Das Magazin für medizinische Reisen",
+      "collector_label": "Sammlerausgabe",
+      "date_label": "November 2026",
+      "section_title": "Das Journal für Medizinreisen · Sammlerausgaben",
+      "section_subtitle": "Drei 8-seitige Magazine in 17 Sprachen — für Behandlungsplanung, Zielprüfung und Genesung.",
+      "read_btn_label": "Magazin lesen (PDF)",
+      "all_editions_label": "Alle 17 Sprachen (51 PDFs)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Der Weg zur Behandlung",
+          "subtitle": "Ein wohlüberlegter Einstieg in die Behandlung im Ausland",
+          "cover_lines": [
+            "Eine fundierte Vorauswahl treffen",
+            "Die Fragen hinter einem klaren Kostenvoranschlag",
+            "Ihr persönliches Entscheidungsnotizbuch"
+          ],
+          "intro_title": "Beginnen Sie mit besseren Fragen.",
+          "summary": "Eine fundierte Vorauswahl treffen · Die Fragen hinter einem klaren Kostenvoranschlag · Ihr persönliches Entscheidungsnotizbuch",
+          "badge": "Sammlerausgabe 01",
+          "date_label": "November 2026",
+          "pages": 8,
+          "size_kb": 1080.8,
+          "pdf_path": "de/SecretaryBird_01_The_Care_Journey_DE.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/de/SecretaryBird_01_The_Care_Journey_DE.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/de/SecretaryBird_01_The_Care_Journey_DE.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Reiseziele im Fokus",
+          "subtitle": "Indien · Thailand · Türkei",
+          "cover_lines": [
+            "Drei Reiseziele, ein genauerer Blick",
+            "Wo sich wichtige Angaben überprüfen lassen",
+            "Vergleichen Sie die Details hinter dem Reiseziel"
+          ],
+          "intro_title": "Das Land ist erst der Anfang.",
+          "summary": "Drei Reiseziele, ein genauerer Blick · Wo sich wichtige Angaben überprüfen lassen · Vergleichen Sie die Details hinter dem Reiseziel",
+          "badge": "Sammlerausgabe 02",
+          "date_label": "November 2026",
+          "pages": 8,
+          "size_kb": 1223.3,
+          "pdf_path": "de/SecretaryBird_02_The_Destination_Edit_DE.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/de/SecretaryBird_02_The_Destination_Edit_DE.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/de/SecretaryBird_02_The_Destination_Edit_DE.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Begleiter für die Genesung",
+          "subtitle": "Die Zeit nach der Behandlung gut planen",
+          "cover_lines": [
+            "Ein Aufenthalt, der Ihren Plan unterstützt",
+            "Eine klare Übergabe vor der Abreise",
+            "Die Heimreise beginnt mit Vorbereitung"
+          ],
+          "intro_title": "Lassen Sie Raum für die Zeit danach.",
+          "summary": "Ein Aufenthalt, der Ihren Plan unterstützt · Eine klare Übergabe vor der Abreise · Die Heimreise beginnt mit Vorbereitung",
+          "badge": "Sammlerausgabe 03",
+          "date_label": "November 2026",
+          "pages": 8,
+          "size_kb": 839.8,
+          "pdf_path": "de/SecretaryBird_03_The_Recovery_Companion_DE.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/de/SecretaryBird_03_The_Recovery_Companion_DE.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/de/SecretaryBird_03_The_Recovery_Companion_DE.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "fr": {
+      "code": "fr",
+      "english_name": "French",
+      "native_name": "Français",
+      "direction": "ltr",
+      "journal_label": "Le magazine du voyage médical",
+      "collector_label": "Édition collector",
+      "date_label": "Novembre 2026",
+      "section_title": "Le Journal du Voyage Médical · Éditions Collector",
+      "section_subtitle": "Trois magazines de 8 pages en 17 langues : parcours de soins, vérification des destinations et rétablissement.",
+      "read_btn_label": "Lire le magazine (PDF)",
+      "all_editions_label": "Les 17 langues (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Le parcours de soins",
+          "subtitle": "Bien préparer ses premiers pas vers des soins à l’étranger",
+          "cover_lines": [
+            "Construire une sélection solide",
+            "Les questions derrière un devis clair",
+            "Votre carnet personnel de décision"
+          ],
+          "intro_title": "Commencez par de meilleures questions.",
+          "summary": "Construire une sélection solide · Les questions derrière un devis clair · Votre carnet personnel de décision",
+          "badge": "Édition collector 01",
+          "date_label": "Novembre 2026",
+          "pages": 8,
+          "size_kb": 1081.2,
+          "pdf_path": "fr/SecretaryBird_01_The_Care_Journey_FR.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/fr/SecretaryBird_01_The_Care_Journey_FR.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/fr/SecretaryBird_01_The_Care_Journey_FR.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Destinations à la loupe",
+          "subtitle": "Inde · Thaïlande · Turquie",
+          "cover_lines": [
+            "Trois destinations, un regard plus attentif",
+            "Où vérifier les affirmations importantes",
+            "Comparer les détails derrière la destination"
+          ],
+          "intro_title": "Le pays n’est qu’un point de départ.",
+          "summary": "Trois destinations, un regard plus attentif · Où vérifier les affirmations importantes · Comparer les détails derrière la destination",
+          "badge": "Édition collector 02",
+          "date_label": "Novembre 2026",
+          "pages": 8,
+          "size_kb": 1223.9,
+          "pdf_path": "fr/SecretaryBird_02_The_Destination_Edit_FR.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/fr/SecretaryBird_02_The_Destination_Edit_FR.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/fr/SecretaryBird_02_The_Destination_Edit_FR.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Le guide du rétablissement",
+          "subtitle": "Préparer avec attention les jours qui suivent les soins",
+          "cover_lines": [
+            "Un séjour au service de votre plan",
+            "Une transmission plus claire avant le départ",
+            "Le retour se prépare dès maintenant"
+          ],
+          "intro_title": "Faites place aux jours d’après.",
+          "summary": "Un séjour au service de votre plan · Une transmission plus claire avant le départ · Le retour se prépare dès maintenant",
+          "badge": "Édition collector 03",
+          "date_label": "Novembre 2026",
+          "pages": 8,
+          "size_kb": 841.2,
+          "pdf_path": "fr/SecretaryBird_03_The_Recovery_Companion_FR.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/fr/SecretaryBird_03_The_Recovery_Companion_FR.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/fr/SecretaryBird_03_The_Recovery_Companion_FR.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "pl": {
+      "code": "pl",
+      "english_name": "Polish",
+      "native_name": "Polski",
+      "direction": "ltr",
+      "journal_label": "Magazyn podróży medycznych",
+      "collector_label": "Wydanie kolekcjonerskie",
+      "date_label": "Listopad 2026",
+      "section_title": "Dziennik Podróży Medycznych · Wydania Kolekcjonerskie",
+      "section_subtitle": "Trzy 8-stronicowe magazyny w 17 językach: droga do leczenia, weryfikacja kierunków i powrót do zdrowia.",
+      "read_btn_label": "Czytaj magazyn (PDF)",
+      "all_editions_label": "Wszystkie 17 języków (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Droga do leczenia",
+          "subtitle": "Przemyślany początek leczenia za granicą",
+          "cover_lines": [
+            "Stwórz rzetelną listę rozważanych opcji",
+            "Pytania, które wyjaśniają kosztorys",
+            "Twój osobisty notatnik decyzji"
+          ],
+          "intro_title": "Zacznij od lepszych pytań.",
+          "summary": "Stwórz rzetelną listę rozważanych opcji · Pytania, które wyjaśniają kosztorys · Twój osobisty notatnik decyzji",
+          "badge": "Wydanie kolekcjonerskie 01",
+          "date_label": "Listopad 2026",
+          "pages": 8,
+          "size_kb": 1078.5,
+          "pdf_path": "pl/SecretaryBird_01_The_Care_Journey_PL.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pl/SecretaryBird_01_The_Care_Journey_PL.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pl/SecretaryBird_01_The_Care_Journey_PL.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Kierunki pod lupą",
+          "subtitle": "Indie · Tajlandia · Turcja",
+          "cover_lines": [
+            "Trzy kierunki, bardziej uważne spojrzenie",
+            "Gdzie sprawdzać istotne deklaracje",
+            "Porównaj szczegóły kryjące się za kierunkiem"
+          ],
+          "intro_title": "Kraj to dopiero początek.",
+          "summary": "Trzy kierunki, bardziej uważne spojrzenie · Gdzie sprawdzać istotne deklaracje · Porównaj szczegóły kryjące się za kierunkiem",
+          "badge": "Wydanie kolekcjonerskie 02",
+          "date_label": "Listopad 2026",
+          "pages": 8,
+          "size_kb": 1221.2,
+          "pdf_path": "pl/SecretaryBird_02_The_Destination_Edit_PL.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pl/SecretaryBird_02_The_Destination_Edit_PL.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pl/SecretaryBird_02_The_Destination_Edit_PL.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Przewodnik powrotu do zdrowia",
+          "subtitle": "Przemyślane planowanie dni po leczeniu",
+          "cover_lines": [
+            "Pobyt, który wspiera Twój plan",
+            "Jasne przekazanie opieki przed wyjazdem",
+            "Podróż do domu zaczyna się od przygotowania"
+          ],
+          "intro_title": "Zostaw miejsce na dni po leczeniu.",
+          "summary": "Pobyt, który wspiera Twój plan · Jasne przekazanie opieki przed wyjazdem · Podróż do domu zaczyna się od przygotowania",
+          "badge": "Wydanie kolekcjonerskie 03",
+          "date_label": "Listopad 2026",
+          "pages": 8,
+          "size_kb": 838.1,
+          "pdf_path": "pl/SecretaryBird_03_The_Recovery_Companion_PL.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pl/SecretaryBird_03_The_Recovery_Companion_PL.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pl/SecretaryBird_03_The_Recovery_Companion_PL.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "hi": {
+      "code": "hi",
+      "english_name": "Hindi",
+      "native_name": "हिन्दी",
+      "direction": "ltr",
+      "journal_label": "चिकित्सा यात्रा पत्रिका",
+      "collector_label": "संग्रहणीय संस्करण",
+      "date_label": "नवंबर 2026",
+      "section_title": "मेडिकल ट्रैवल जर्नल · संग्राहक संस्करण",
+      "section_subtitle": "17 भाषाओं में तीन 8-पृष्ठ की पत्रिकाएँ — देखभाल की यात्रा, गंतव्य सत्यापन और स्वास्थ्यलाभ योजना।",
+      "read_btn_label": "पत्रिका पढ़ें (PDF)",
+      "all_editions_label": "सभी 17 भाषाएँ (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "देखभाल की यात्रा",
+          "subtitle": "विदेश में उपचार की एक सुविचारित शुरुआत",
+          "cover_lines": [
+            "ठोस जानकारी पर आधारित विकल्पों की सूची बनाएँ",
+            "स्पष्ट लागत-प्रस्ताव के पीछे के प्रश्न",
+            "निर्णय के लिए आपकी व्यक्तिगत नोटबुक"
+          ],
+          "intro_title": "शुरुआत बेहतर प्रश्नों से करें।",
+          "summary": "ठोस जानकारी पर आधारित विकल्पों की सूची बनाएँ · स्पष्ट लागत-प्रस्ताव के पीछे के प्रश्न · निर्णय के लिए आपकी व्यक्तिगत नोटबुक",
+          "badge": "संग्रहणीय संस्करण 01",
+          "date_label": "नवंबर 2026",
+          "pages": 8,
+          "size_kb": 1122.1,
+          "pdf_path": "hi/SecretaryBird_01_The_Care_Journey_HI.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/hi/SecretaryBird_01_The_Care_Journey_HI.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/hi/SecretaryBird_01_The_Care_Journey_HI.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "गंतव्य विशेषांक",
+          "subtitle": "भारत · थाईलैंड · तुर्किये",
+          "cover_lines": [
+            "तीन गंतव्य, एक अधिक विचारशील नज़र",
+            "महत्वपूर्ण दावों की जाँच कहाँ करें",
+            "गंतव्य के पीछे के विवरणों की तुलना करें"
+          ],
+          "intro_title": "देश तो केवल शुरुआत है।",
+          "summary": "तीन गंतव्य, एक अधिक विचारशील नज़र · महत्वपूर्ण दावों की जाँच कहाँ करें · गंतव्य के पीछे के विवरणों की तुलना करें",
+          "badge": "संग्रहणीय संस्करण 02",
+          "date_label": "नवंबर 2026",
+          "pages": 8,
+          "size_kb": 1265.8,
+          "pdf_path": "hi/SecretaryBird_02_The_Destination_Edit_HI.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/hi/SecretaryBird_02_The_Destination_Edit_HI.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/hi/SecretaryBird_02_The_Destination_Edit_HI.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "स्वास्थ्यलाभ का साथी",
+          "subtitle": "उपचार के बाद के दिनों के लिए सुविचारित योजना",
+          "cover_lines": [
+            "अपने ठहरने को योजना के अनुकूल बनाएँ",
+            "रवाना होने से पहले जिम्मेदारियों का स्पष्ट हस्तांतरण",
+            "घर की यात्रा की शुरुआत तैयारी से होती है"
+          ],
+          "intro_title": "उपचार के बाद के दिनों के लिए गुंजाइश रखें।",
+          "summary": "अपने ठहरने को योजना के अनुकूल बनाएँ · रवाना होने से पहले जिम्मेदारियों का स्पष्ट हस्तांतरण · घर की यात्रा की शुरुआत तैयारी से होती है",
+          "badge": "संग्रहणीय संस्करण 03",
+          "date_label": "नवंबर 2026",
+          "pages": 8,
+          "size_kb": 882.4,
+          "pdf_path": "hi/SecretaryBird_03_The_Recovery_Companion_HI.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/hi/SecretaryBird_03_The_Recovery_Companion_HI.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/hi/SecretaryBird_03_The_Recovery_Companion_HI.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "bn": {
+      "code": "bn",
+      "english_name": "Bengali",
+      "native_name": "বাংলা",
+      "direction": "ltr",
+      "journal_label": "চিকিৎসা ভ্রমণের সাময়িকী",
+      "collector_label": "সংগ্রহযোগ্য সংস্করণ",
+      "date_label": "নভেম্বর 2026",
+      "section_title": "মেডিকেল ট্রাভেল জার্নাল · সংগ্রাহক সংস্করণ",
+      "section_subtitle": "১৭টি ভাষায় তিনটি ৮-পृষ্ঠার ম্যাগাজিন — চিকিৎসার যাত্রা, গন্তব্য যাচাই এবং সুস্থ হয়ে ওঠার পরিকল্পনা।",
+      "read_btn_label": "ম্যাগাজিন পড়ুন (PDF)",
+      "all_editions_label": "সব ১৭টি ভাষা (৫১টি PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "চিকিৎসার পথে যাত্রা",
+          "subtitle": "বিদেশে চিকিৎসার এক সুচিন্তিত সূচনা",
+          "cover_lines": [
+            "নির্ভরযোগ্য তথ্য দিয়ে সংক্ষিপ্ত তালিকা তৈরি করুন",
+            "স্পষ্ট ব্যয়ের প্রস্তাবের পেছনের প্রশ্নগুলো",
+            "সিদ্ধান্তের জন্য আপনার ব্যক্তিগত নোটবই"
+          ],
+          "intro_title": "শুরু হোক ভালো প্রশ্ন দিয়ে।",
+          "summary": "নির্ভরযোগ্য তথ্য দিয়ে সংক্ষিপ্ত তালিকা তৈরি করুন · স্পষ্ট ব্যয়ের প্রস্তাবের পেছনের প্রশ্নগুলো · সিদ্ধান্তের জন্য আপনার ব্যক্তিগত নোটবই",
+          "badge": "সংগ্রহযোগ্য সংস্করণ 01",
+          "date_label": "নভেম্বর 2026",
+          "pages": 8,
+          "size_kb": 1128.6,
+          "pdf_path": "bn/SecretaryBird_01_The_Care_Journey_BN.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bn/SecretaryBird_01_The_Care_Journey_BN.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bn/SecretaryBird_01_The_Care_Journey_BN.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "গন্তব্য বিশেষ সংখ্যা",
+          "subtitle": "ভারত · থাইল্যান্ড · তুর্কিয়ে",
+          "cover_lines": [
+            "তিন গন্তব্য, আরও সুচিন্তিত দৃষ্টিভঙ্গি",
+            "গুরুত্বপূর্ণ দাবিগুলো কোথায় যাচাই করবেন",
+            "গন্তব্যের পেছনের তথ্যের তুলনা করুন"
+          ],
+          "intro_title": "দেশটি কেবল শুরু।",
+          "summary": "তিন গন্তব্য, আরও সুচিন্তিত দৃষ্টিভঙ্গি · গুরুত্বপূর্ণ দাবিগুলো কোথায় যাচাই করবেন · গন্তব্যের পেছনের তথ্যের তুলনা করুন",
+          "badge": "সংগ্রহযোগ্য সংস্করণ 02",
+          "date_label": "নভেম্বর 2026",
+          "pages": 8,
+          "size_kb": 1270.3,
+          "pdf_path": "bn/SecretaryBird_02_The_Destination_Edit_BN.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bn/SecretaryBird_02_The_Destination_Edit_BN.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bn/SecretaryBird_02_The_Destination_Edit_BN.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "সুস্থ হয়ে ওঠার সঙ্গী",
+          "subtitle": "চিকিৎসার পরের দিনগুলোর জন্য সুচিন্তিত পরিকল্পনা",
+          "cover_lines": [
+            "আপনার পরিকল্পনার সঙ্গে মানানসই থাকার ব্যবস্থা করুন",
+            "রওনা হওয়ার আগে আরও স্পষ্ট দায়িত্ব হস্তান্তর",
+            "বাড়ি ফেরার যাত্রা শুরু হয় প্রস্তুতি দিয়ে"
+          ],
+          "intro_title": "পরের দিনগুলোর জন্য জায়গা রাখুন।",
+          "summary": "আপনার পরিকল্পনার সঙ্গে মানানসই থাকার ব্যবস্থা করুন · রওনা হওয়ার আগে আরও স্পষ্ট দায়িত্ব হস্তান্তর · বাড়ি ফেরার যাত্রা শুরু হয় প্রস্তুতি দিয়ে",
+          "badge": "সংগ্রহযোগ্য সংস্করণ 03",
+          "date_label": "নভেম্বর 2026",
+          "pages": 8,
+          "size_kb": 887.2,
+          "pdf_path": "bn/SecretaryBird_03_The_Recovery_Companion_BN.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bn/SecretaryBird_03_The_Recovery_Companion_BN.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bn/SecretaryBird_03_The_Recovery_Companion_BN.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "bg": {
+      "code": "bg",
+      "english_name": "Bulgarian",
+      "native_name": "Български",
+      "direction": "ltr",
+      "journal_label": "Списание за медицински пътувания",
+      "collector_label": "Колекционерско издание",
+      "date_label": "Ноември 2026",
+      "section_title": "Списание за медицински пътувания · Колекционерски издания",
+      "section_subtitle": "Три 8-странични списания на 17 езика: пътят към лечението, проверка на дестинациите и възстановяване.",
+      "read_btn_label": "Прочетете списанието (PDF)",
+      "all_editions_label": "Всички 17 езика (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Пътят към лечението",
+          "subtitle": "Обмислено начало на лечението в чужбина",
+          "cover_lines": [
+            "Съставете обоснован кратък списък",
+            "Въпросите зад ясната ценова оферта",
+            "Вашият личен бележник за решения"
+          ],
+          "intro_title": "Започнете с по-добри въпроси.",
+          "summary": "Съставете обоснован кратък списък · Въпросите зад ясната ценова оферта · Вашият личен бележник за решения",
+          "badge": "Колекционерско издание 01",
+          "date_label": "Ноември 2026",
+          "pages": 8,
+          "size_kb": 1109.3,
+          "pdf_path": "bg/SecretaryBird_01_The_Care_Journey_BG.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bg/SecretaryBird_01_The_Care_Journey_BG.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bg/SecretaryBird_01_The_Care_Journey_BG.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Фокус върху дестинациите",
+          "subtitle": "Индия · Тайланд · Турция",
+          "cover_lines": [
+            "Три дестинации, по-внимателен поглед",
+            "Къде да проверите важните твърдения",
+            "Сравнете подробностите зад дестинацията"
+          ],
+          "intro_title": "Страната е само началото.",
+          "summary": "Три дестинации, по-внимателен поглед · Къде да проверите важните твърдения · Сравнете подробностите зад дестинацията",
+          "badge": "Колекционерско издание 02",
+          "date_label": "Ноември 2026",
+          "pages": 8,
+          "size_kb": 1252.4,
+          "pdf_path": "bg/SecretaryBird_02_The_Destination_Edit_BG.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bg/SecretaryBird_02_The_Destination_Edit_BG.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bg/SecretaryBird_02_The_Destination_Edit_BG.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Спътник във възстановяването",
+          "subtitle": "Обмислено планиране за дните след лечението",
+          "cover_lines": [
+            "Организирайте престой, който подкрепя плана ви",
+            "По-ясно предаване на информацията преди отпътуване",
+            "Пътят към дома започва с подготовка"
+          ],
+          "intro_title": "Оставете място за дните след това.",
+          "summary": "Организирайте престой, който подкрепя плана ви · По-ясно предаване на информацията преди отпътуване · Пътят към дома започва с подготовка",
+          "badge": "Колекционерско издание 03",
+          "date_label": "Ноември 2026",
+          "pages": 8,
+          "size_kb": 869.6,
+          "pdf_path": "bg/SecretaryBird_03_The_Recovery_Companion_BG.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bg/SecretaryBird_03_The_Recovery_Companion_BG.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bg/SecretaryBird_03_The_Recovery_Companion_BG.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    },
+    "ro": {
+      "code": "ro",
+      "english_name": "Romanian",
+      "native_name": "Română",
+      "direction": "ltr",
+      "journal_label": "Jurnalul călătoriilor medicale",
+      "collector_label": "Ediție de colecție",
+      "date_label": "Noiembrie 2026",
+      "section_title": "Jurnalul Călătoriilor Medicale · Ediții de Colecție",
+      "section_subtitle": "Trei reviste de 8 pagini în 17 limbi: drumul către îngrijire, verificarea destinațiilor și recuperarea.",
+      "read_btn_label": "Citește revista (PDF)",
+      "all_editions_label": "Toate cele 17 limbi (51 PDF)",
+      "issues": [
+        {
+          "number": "01",
+          "slug": "the-care-journey",
+          "title": "Drumul către îngrijire",
+          "subtitle": "Un început bine gândit pentru tratamentul în străinătate",
+          "cover_lines": [
+            "Alcătuiți o listă scurtă bine fundamentată",
+            "Întrebările din spatele unei oferte clare",
+            "Carnetul personal al deciziei dumneavoastră"
+          ],
+          "intro_title": "Începeți cu întrebări mai bune.",
+          "summary": "Alcătuiți o listă scurtă bine fundamentată · Întrebările din spatele unei oferte clare · Carnetul personal al deciziei dumneavoastră",
+          "badge": "Ediție de colecție 01",
+          "date_label": "Noiembrie 2026",
+          "pages": 8,
+          "size_kb": 1080.1,
+          "pdf_path": "ro/SecretaryBird_01_The_Care_Journey_RO.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ro/SecretaryBird_01_The_Care_Journey_RO.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ro/SecretaryBird_01_The_Care_Journey_RO.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+        },
+        {
+          "number": "02",
+          "slug": "the-destination-edit",
+          "title": "Destinații în prim-plan",
+          "subtitle": "India · Thailanda · Turcia",
+          "cover_lines": [
+            "Trei destinații, o perspectivă mai atentă",
+            "Unde puteți verifica afirmațiile importante",
+            "Comparați detaliile din spatele destinației"
+          ],
+          "intro_title": "Țara este doar începutul.",
+          "summary": "Trei destinații, o perspectivă mai atentă · Unde puteți verifica afirmațiile importante · Comparați detaliile din spatele destinației",
+          "badge": "Ediție de colecție 02",
+          "date_label": "Noiembrie 2026",
+          "pages": 8,
+          "size_kb": 1222.7,
+          "pdf_path": "ro/SecretaryBird_02_The_Destination_Edit_RO.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ro/SecretaryBird_02_The_Destination_Edit_RO.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ro/SecretaryBird_02_The_Destination_Edit_RO.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+        },
+        {
+          "number": "03",
+          "slug": "the-recovery-companion",
+          "title": "Ghidul recuperării",
+          "subtitle": "Planificare atentă pentru zilele de după îngrijire",
+          "cover_lines": [
+            "Organizați o ședere care vă susține planul",
+            "Un transfer mai clar înainte de plecare",
+            "Drumul spre casă începe cu pregătirea"
+          ],
+          "intro_title": "Lăsați loc pentru zilele de după.",
+          "summary": "Organizați o ședere care vă susține planul · Un transfer mai clar înainte de plecare · Drumul spre casă începe cu pregătirea",
+          "badge": "Ediție de colecție 03",
+          "date_label": "Noiembrie 2026",
+          "pages": 8,
+          "size_kb": 839.5,
+          "pdf_path": "ro/SecretaryBird_03_The_Recovery_Companion_RO.pdf",
+          "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ro/SecretaryBird_03_The_Recovery_Companion_RO.pdf",
+          "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ro/SecretaryBird_03_The_Recovery_Companion_RO.pdf",
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+        }
+      ]
+    }
+  }
+}
