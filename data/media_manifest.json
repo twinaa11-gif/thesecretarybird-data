@@ -1,0 +1,4466 @@
+{
+  "updated_at": "2026-11-15",
+  "total_assets": 446,
+  "items": [
+    {
+      "file": "media/hospitals/hosp-01.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 43.15,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-02.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 24.07,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-03.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 28.43,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-04.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 27.33,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-05.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 39.86,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-06.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 22.65,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1512678080530-7760d81faba6?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-07.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 65.3,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-08.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 45.18,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-09.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 43.7,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1504439468489-c8920d796a29?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-10.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 22.69,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-11.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 26.63,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1580281657527-47f249e8f4df?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-12.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 31.46,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-13.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 29.11,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-14.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 15.82,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1516841273335-e39b37888115?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-15.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 20.66,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-16.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 20.85,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-17.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 42.32,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-18.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 23.69,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-19.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 28.72,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-20.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 27.53,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-21.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 39.53,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-22.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 23.03,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1512678080530-7760d81faba6?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-23.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 66.15,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-24.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 45.69,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-25.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 44.15,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1504439468489-c8920d796a29?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-26.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 23.18,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-27.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 26.35,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1580281657527-47f249e8f4df?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-28.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 31.62,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-29.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 28.38,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-30.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 15.87,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1516841273335-e39b37888115?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-31.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 20.88,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/hospitals/hosp-32.webp",
+      "type": "hospital_photo",
+      "dimensions": "800×450",
+      "size_kb": 20.74,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/), /p/hospitals-directory.html",
+      "provenance": "Unsplash architectural medical campus (https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9 (flagged for official hospital press-kit photo when available)"
+    },
+    {
+      "file": "media/doctors/doc-01.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.67,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-02.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.52,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-03.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.24,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-04.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.25,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-05.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.71,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-06.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.06,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-07.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.13,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-08.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.52,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-09.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.38,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-10.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.07,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-11.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.61,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-12.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.6,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-13.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.15,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-14.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.22,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-15.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.86,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-16.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.94,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-17.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.12,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-18.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.6,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-19.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.29,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-20.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.03,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-21.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.72,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-22.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.51,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-23.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.1,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-24.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.37,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-25.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.76,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-26.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 29.93,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-27.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.22,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-28.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.54,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-29.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.24,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/doctors/doc-30.webp",
+      "type": "doctor_portrait",
+      "dimensions": "800×800",
+      "size_kb": 30.17,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/doctors-directory.html",
+      "provenance": "First-party SecretaryBird neutral clinical specialist avatar (C3.3 compliant — no stock human photo)",
+      "status": "COMPLIANT_800x800_1x1_NEUTRAL_AVATAR"
+    },
+    {
+      "file": "media/treatments/PROC-01.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.85,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-02.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.72,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-03.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 18.01,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-04.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 25.96,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-05.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 19.55,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-06.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.44,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-07.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 27.66,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-08.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 45.24,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-09.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 20.81,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-10.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.85,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-11.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.95,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-12.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 17.95,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-13.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 25.56,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-14.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.64,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-15.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 19.59,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-16.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 45.76,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-17.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 27.97,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-18.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 27.05,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-19.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 20.67,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/treatments/PROC-20.webp",
+      "type": "treatment_photo",
+      "dimensions": "800×450",
+      "size_kb": 36.82,
+      "format": "WEBP (RGB)",
+      "used_on": "/p/treatment-costs.html",
+      "provenance": "Unsplash clinical procedure illustration (https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=1200&q=82) — Unsplash License",
+      "status": "COMPLIANT_800x450_16x9"
+    },
+    {
+      "file": "media/logos/TZ-AE-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0001)",
+      "provenance": "Institution domain mark (www.clevelandclinicabudhabi.ae) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.1,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0002)",
+      "provenance": "Institution domain mark (www.ssmc.ae) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.42,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0003)",
+      "provenance": "Institution domain mark (www.burjeelmedicalcity.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.68,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0004)",
+      "provenance": "Institution domain mark (www.burjeel.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.17,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0005)",
+      "provenance": "Institution domain mark (www.burjeelsurgery.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0006)",
+      "provenance": "Institution domain mark (www.burjeel.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.73,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0007)",
+      "provenance": "Institution domain mark (www.burjeel.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.0,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0008)",
+      "provenance": "Institution domain mark (www.medeor.ae) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.83,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0009)",
+      "provenance": "Institution domain mark (www.medeor.ae) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-AE-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.03,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-AE-0010)",
+      "provenance": "Institution domain mark (www.llh.ae) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.41,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0001)",
+      "provenance": "Institution domain mark (www.khuh.org.bh) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.1,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0002)",
+      "provenance": "Institution domain mark (www.bsh.com.bh) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.71,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0003)",
+      "provenance": "Institution domain mark (www.royalbahrainhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.95,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0004)",
+      "provenance": "Institution domain mark (www.amh.org.bh) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.3,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0005)",
+      "provenance": "Institution domain mark (www.amh.org.bh) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.38,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0006)",
+      "provenance": "Institution domain mark (www.moh.gov.bh) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.56,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0007)",
+      "provenance": "Institution domain mark (www.bdfmedical.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0008)",
+      "provenance": "Institution domain mark (www.mehospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.35,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0009)",
+      "provenance": "Institution domain mark (www.ibnalnafees.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.98,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0010)",
+      "provenance": "Institution domain mark (www.alkindihospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BH-0021.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.04,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BH-0021)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0001)",
+      "provenance": "Institution domain mark (www.mnts.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.51,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0002)",
+      "provenance": "Institution domain mark (www.omr.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.48,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0003)",
+      "provenance": "Institution domain mark (www.cardio.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.43,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0004)",
+      "provenance": "Institution domain mark (www.ortoped.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.86,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0005)",
+      "provenance": "Institution domain mark (www.neuro.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0006)",
+      "provenance": "Institution domain mark (oncology.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.94,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0007)",
+      "provenance": "Institution domain mark (www.vip-clinic.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.01,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0008)",
+      "provenance": "Institution domain mark (www.speleo.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.16,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0009)",
+      "provenance": "Institution domain mark (www.rcrm.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.62,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0010)",
+      "provenance": "Institution domain mark (www.medcenter.by) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-BY-0026.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-BY-0026)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.29,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0001)",
+      "provenance": "Institution domain mark (www.pumch.cn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.66,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0002)",
+      "provenance": "Institution domain mark (www.fuwaihospital.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0003)",
+      "provenance": "Institution domain mark (www.301hospital.com.cn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.96,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0004)",
+      "provenance": "Institution domain mark (www.cicams.ac.cn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.63,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0005)",
+      "provenance": "Institution domain mark (www.huashan.org.cn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.14,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0006)",
+      "provenance": "Institution domain mark (www.zs-hospital.sh.cn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.25,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0007)",
+      "provenance": "Institution domain mark (www.rjh.com.cn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.77,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0008)",
+      "provenance": "Institution domain mark (www.renji.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.6,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0009)",
+      "provenance": "Institution domain mark (www.gzsums.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.76,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0010)",
+      "provenance": "Institution domain mark (www.hku-szh.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CN-0026.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.36,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CN-0026)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.65,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0001)",
+      "provenance": "Institution domain mark (www.fsfb.org.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.95,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0002)",
+      "provenance": "Institution domain mark (www.fsfb.org.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.08,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0003)",
+      "provenance": "Institution domain mark (www.colsanitas.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.73,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0004)",
+      "provenance": "Institution domain mark (clinicalosnogales.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.54,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0005)",
+      "provenance": "Institution domain mark (www.clinicadelcountry.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.03,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0006)",
+      "provenance": "Institution domain mark (www.clinicalacolina.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.04,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0007)",
+      "provenance": "Institution domain mark (www.barraquer.com.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.1,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0008)",
+      "provenance": "Institution domain mark (www.reprotec.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.38,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0009)",
+      "provenance": "Institution domain mark (www.husi.org.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0010)",
+      "provenance": "Institution domain mark (www.homil.gov.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-0036.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-0036)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.98,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0001)",
+      "provenance": "Institution domain mark (www.clinicamedellin.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.14,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0002)",
+      "provenance": "Institution domain mark (www.clinicalasvegas.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0003)",
+      "provenance": "Institution domain mark (www.clinicaelrosario.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.18,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0004)",
+      "provenance": "Institution domain mark (www.clinicacampestre.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.47,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0005)",
+      "provenance": "Institution domain mark (perfectsmilecolombia.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.74,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0006)",
+      "provenance": "Institution domain mark (artefacialycorporal.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.9,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0007)",
+      "provenance": "Institution domain mark (www.mediarte.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.13,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0008)",
+      "provenance": "Institution domain mark (naturalsmile.com.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.68,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0009)",
+      "provenance": "Institution domain mark (www.hptu.org.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.56,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0010)",
+      "provenance": "Institution domain mark (www.hptu.org.co) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CO-MD-0011.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CO-MD-0011)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.33,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0001)",
+      "provenance": "Institution domain mark (www.hospitalcima.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.36,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0002)",
+      "provenance": "Institution domain mark (www.clinicabiblica.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.61,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0003)",
+      "provenance": "Institution domain mark (www.clinicabiblica.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.51,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0004)",
+      "provenance": "Institution domain mark (www.hospitallacatolica.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.3,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0005)",
+      "provenance": "Institution domain mark (www.metropolitanocr.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.22,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0006)",
+      "provenance": "Institution domain mark (www.metropolitanocr.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.29,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0007)",
+      "provenance": "Institution domain mark (www.metropolitanocr.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.35,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0008)",
+      "provenance": "Institution domain mark (www.metropolitanocr.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.19,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0009)",
+      "provenance": "Institution domain mark (www.metropolitanocr.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.54,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0010)",
+      "provenance": "Institution domain mark (www.metropolitanocr.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CR-0021.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.11,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CR-0021)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.01,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0001)",
+      "provenance": "Institution domain mark (shso.org.cy) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 16.39,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0002)",
+      "provenance": "Institution domain mark (www.aretaeio.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0003)",
+      "provenance": "Institution domain mark (www.ledraclinic.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.99,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0004)",
+      "provenance": "Institution domain mark (www.alraziclinic.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.95,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0005)",
+      "provenance": "Institution domain mark (www.nicosiapolyclinic.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.78,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0006)",
+      "provenance": "Institution domain mark (www.cryosinternational.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.18,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0007)",
+      "provenance": "Institution domain mark (www.adamantio.com.cy) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.83,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0008)",
+      "provenance": "Institution domain mark (www.dunyaivf.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.94,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0009)",
+      "provenance": "Institution domain mark (shso.org.cy) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.11,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0010)",
+      "provenance": "Institution domain mark (www.bococ.org.cy) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-CY-0031.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.06,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-CY-0031)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.27,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0001)",
+      "provenance": "Institution domain mark (www.charite.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0002)",
+      "provenance": "Institution domain mark (www.charite.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.06,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0003)",
+      "provenance": "Institution domain mark (www.charite.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.38,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0004)",
+      "provenance": "Institution domain mark (www.lmu-klinikum.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.28,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0005)",
+      "provenance": "Institution domain mark (www.mri.tum.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.88,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0006)",
+      "provenance": "Institution domain mark (www.dhm.mhn.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.55,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0007)",
+      "provenance": "Institution domain mark (www.klinikum.uni-heidelberg.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.85,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0008)",
+      "provenance": "Institution domain mark (www.uke.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.84,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0009)",
+      "provenance": "Institution domain mark (www.mhh.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DE-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.54,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DE-0010)",
+      "provenance": "Institution domain mark (www.ini-hannover.de) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.69,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0001)",
+      "provenance": "Institution domain mark (www.rigshospitalet.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.8,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0002)",
+      "provenance": "Institution domain mark (www.rigshospitalet.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.79,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0003)",
+      "provenance": "Institution domain mark (www.rigshospitalet.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.79,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0004)",
+      "provenance": "Institution domain mark (www.rigshospitalet.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.62,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0005)",
+      "provenance": "Institution domain mark (www.copenhagenfertilitycenter.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0006)",
+      "provenance": "Institution domain mark (www.trianglen.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.75,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0007)",
+      "provenance": "Institution domain mark (www.memira.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.36,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0008)",
+      "provenance": "Institution domain mark (www.godtsmil.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.12,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0009)",
+      "provenance": "Institution domain mark (www.bispebjerghospital.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.86,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0010)",
+      "provenance": "Institution domain mark (www.bispebjerghospital.dk) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DK-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.07,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DK-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 16.33,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0001)",
+      "provenance": "Institution domain mark (cedimat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.3,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0002)",
+      "provenance": "Institution domain mark (cedimat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.88,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0003)",
+      "provenance": "Institution domain mark (hgps.org.do) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.72,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0004)",
+      "provenance": "Institution domain mark (centromedicoreal.com.do) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.04,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0005)",
+      "provenance": "Institution domain mark (corazonesunidos.org.do) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.12,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0006)",
+      "provenance": "Institution domain mark (caribbeanplasticsurgery.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.38,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0007)",
+      "provenance": "Institution domain mark (centrolaser.com.do) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0008)",
+      "provenance": "Institution domain mark (fertilat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0009)",
+      "provenance": "Institution domain mark (cddglobal.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.26,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0010)",
+      "provenance": "Institution domain mark (centromedicodominicano.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-DO-0011.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.99,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-DO-0011)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0001)",
+      "provenance": "Institution domain mark (www.as-salam.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.6,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0002)",
+      "provenance": "Institution domain mark (www.as-salam.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 16.19,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0003)",
+      "provenance": "Institution domain mark (www.daralfouad.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.79,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0004)",
+      "provenance": "Institution domain mark (www.daralfouad.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.37,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0005)",
+      "provenance": "Institution domain mark (sghcairo.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0006)",
+      "provenance": "Institution domain mark (www.cleopatrahospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0007)",
+      "provenance": "Institution domain mark (www.cleopatrahospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.57,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0008)",
+      "provenance": "Institution domain mark (www.cleopatrahospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.67,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0009)",
+      "provenance": "Institution domain mark (www.cleopatrahospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.82,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0010)",
+      "provenance": "Institution domain mark (www.cleopatrahospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-EG-0036.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.07,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-EG-0036)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.37,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0001)",
+      "provenance": "Institution domain mark (www.comunidad.madrid) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.58,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0002)",
+      "provenance": "Institution domain mark (www.comunidad.madrid) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.85,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0003)",
+      "provenance": "Institution domain mark (hospitalbeatamariana.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.2,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0004)",
+      "provenance": "Institution domain mark (www.comunidad.madrid) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.8,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0005)",
+      "provenance": "Institution domain mark (hvpaloma.es) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0006)",
+      "provenance": "Institution domain mark (www.fertility-madrid.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.18,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0007)",
+      "provenance": "Institution domain mark (www.comunidad.madrid) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0008)",
+      "provenance": "Institution domain mark (www.comunidad.madrid) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.26,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0009)",
+      "provenance": "Institution domain mark (www.sanitas.es) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.66,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0010)",
+      "provenance": "Institution domain mark (www.hmhospitales.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ES-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.95,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ES-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.86,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0001)",
+      "provenance": "Institution domain mark (www.kbc-zagreb.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.6,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0002)",
+      "provenance": "Institution domain mark (www.kbc-zagreb.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0003)",
+      "provenance": "Institution domain mark (www.kbc-zagreb.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.23,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0004)",
+      "provenance": "Institution domain mark (www.kbcsm.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0005)",
+      "provenance": "Institution domain mark (www.kbcsm.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0006)",
+      "provenance": "Institution domain mark (www.kdb.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.85,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0007)",
+      "provenance": "Institution domain mark (www.bfm.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.47,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0008)",
+      "provenance": "Institution domain mark (www.plucne-bolnice.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.13,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0009)",
+      "provenance": "Institution domain mark (poliklinika-glavic.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.3,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0010)",
+      "provenance": "Institution domain mark (www.kbc-zagreb.hr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-HR-0021.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.85,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-HR-0021)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0001)",
+      "provenance": "Institution domain mark (www.apollohospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.35,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0002)",
+      "provenance": "Institution domain mark (www.maxhealthcare.in) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.88,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0003)",
+      "provenance": "Institution domain mark (www.fortishealthcare.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.99,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0004)",
+      "provenance": "Institution domain mark (www.aiims.edu) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.25,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0005)",
+      "provenance": "Institution domain mark (www.isiconline.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.92,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0006)",
+      "provenance": "Institution domain mark (moolchandhealthcare.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.91,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0007)",
+      "provenance": "Institution domain mark (www.centreforsight.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.3,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0008)",
+      "provenance": "Institution domain mark (www.blkmaxhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.68,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0009)",
+      "provenance": "Institution domain mark (sgrh.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0010)",
+      "provenance": "Institution domain mark (www.manipalhospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-IN-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.62,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-IN-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.81,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0001)",
+      "provenance": "Institution domain mark (www.khcc.jo) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.54,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0002)",
+      "provenance": "Institution domain mark (www.abdalimedical.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.09,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0003)",
+      "provenance": "Institution domain mark (www.jrms.gov.jo) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.34,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0004)",
+      "provenance": "Institution domain mark (www.jrms.gov.jo) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.67,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0005)",
+      "provenance": "Institution domain mark (www.jordan-hospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.26,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0006)",
+      "provenance": "Institution domain mark (www.specialty-hospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.08,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0007)",
+      "provenance": "Institution domain mark (www.khalidihospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0008)",
+      "provenance": "Institution domain mark (www.farah-hospital.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.71,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0009)",
+      "provenance": "Institution domain mark (www.kauh.just.edu.jo) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.58,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0010)",
+      "provenance": "Institution domain mark (hospital.ju.edu.jo) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-JO-0011.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.71,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-JO-0011)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.0,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0001)",
+      "provenance": "Institution domain mark (www.amc.seoul.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.55,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0002)",
+      "provenance": "Institution domain mark (www.samsunghospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.09,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0003)",
+      "provenance": "Institution domain mark (www.snuh.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.72,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0004)",
+      "provenance": "Institution domain mark (yuhs.severance.healthcare) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.75,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0005)",
+      "provenance": "Institution domain mark (www.cmcseoul.or.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.63,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0006)",
+      "provenance": "Institution domain mark (gs.severance.healthcare) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.91,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0007)",
+      "provenance": "Institution domain mark (www.snubh.org) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.25,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0008)",
+      "provenance": "Institution domain mark (anam.kumc.or.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.06,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0009)",
+      "provenance": "Institution domain mark (guro.kumc.or.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.8,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0010)",
+      "provenance": "Institution domain mark (seoul.eumc.ac.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-0021.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-0021)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.1,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0001)",
+      "provenance": "Institution domain mark (www.jkplastic.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.02,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0002)",
+      "provenance": "Institution domain mark (gnghospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.5,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0003)",
+      "provenance": "Institution domain mark (www.viewclinics.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.54,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0004)",
+      "provenance": "Institution domain mark (www.faceline.co.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.84,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0005)",
+      "provenance": "Institution domain mark (www.asps.co.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.45,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0006)",
+      "provenance": "Institution domain mark (thelineps.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.27,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0007)",
+      "provenance": "Institution domain mark (www.e-dream.co.kr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.07,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0008)",
+      "provenance": "Institution domain mark (www.hushuskin.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.43,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0009)",
+      "provenance": "Institution domain mark (eng.idhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KR-GN-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.77,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KR-GN-0010)",
+      "provenance": "Institution domain mark (eng.grandsurgery.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.01,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0001)",
+      "provenance": "Institution domain mark (www.daralshifa.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 16.02,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0002)",
+      "provenance": "Institution domain mark (royalehayat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.2,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0003)",
+      "provenance": "Institution domain mark (www.newmowasat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.84,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0004)",
+      "provenance": "Institution domain mark (salamhospital.com.kw) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.02,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0005)",
+      "provenance": "Institution domain mark (taibahospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.6,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0006)",
+      "provenance": "Institution domain mark (hadihospital.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.12,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0007)",
+      "provenance": "Institution domain mark (wara-hospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.41,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0008)",
+      "provenance": "Institution domain mark (al-seef.com.kw) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.64,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0009)",
+      "provenance": "Institution domain mark (moh.gov.kw) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.81,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0010)",
+      "provenance": "Institution domain mark (moh.gov.kw) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-KW-0011.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.19,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-KW-0011)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.82,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0001)",
+      "provenance": "Institution domain mark (www.hck.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.74,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0002)",
+      "provenance": "Institution domain mark (www.hcz.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.63,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0003)",
+      "provenance": "Institution domain mark (www.far.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.28,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0004)",
+      "provenance": "Institution domain mark (www.clinique-internationale-marrakech.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 16.51,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0005)",
+      "provenance": "Institution domain mark (www.akdital.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.01,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0006)",
+      "provenance": "Institution domain mark (www.akdital.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.66,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0007)",
+      "provenance": "Institution domain mark (www.akdital.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.14,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0008)",
+      "provenance": "Institution domain mark (valdanfa.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.85,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0009)",
+      "provenance": "Institution domain mark (darsalam.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0010)",
+      "provenance": "Institution domain mark (cliniqueagdal.ma) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MA-0031.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.29,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MA-0031)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.96,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0001)",
+      "provenance": "Institution domain mark (www.medicasur.com.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0002)",
+      "provenance": "Institution domain mark (centromedicoabc.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.68,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0003)",
+      "provenance": "Institution domain mark (centromedicoabc.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.83,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0004)",
+      "provenance": "Institution domain mark (www.tecsalud.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.41,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0005)",
+      "provenance": "Institution domain mark (www.tecsalud.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.75,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0006)",
+      "provenance": "Institution domain mark (www.puertadehierro.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.37,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0007)",
+      "provenance": "Institution domain mark (www.puertadehierro.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.22,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0008)",
+      "provenance": "Institution domain mark (sanjavier.com.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.44,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0009)",
+      "provenance": "Institution domain mark (hospitalgalenia.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.1,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0010)",
+      "provenance": "Institution domain mark (hospiten.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.39,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.92,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0001)",
+      "provenance": "Institution domain mark (hospitalangeles.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.68,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0002)",
+      "provenance": "Institution domain mark (simnsa.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.93,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0003)",
+      "provenance": "Institution domain mark (hospitalguadalajara.com.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.2,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0004)",
+      "provenance": "Institution domain mark (clinicasanjuan.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.61,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0005)",
+      "provenance": "Institution domain mark (zonariosurgical.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.19,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0006)",
+      "provenance": "Institution domain mark (dentalbrushtijuana.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0007)",
+      "provenance": "Institution domain mark (advancedsmilesdentistry.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.1,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0008)",
+      "provenance": "Institution domain mark (codetvision.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.11,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0009)",
+      "provenance": "Institution domain mark (hospitaldelprado.com.mx) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.64,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0010)",
+      "provenance": "Institution domain mark (hospitalflorence.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MX-TJ-0026.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.53,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MX-TJ-0026)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.96,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0001)",
+      "provenance": "Institution domain mark (gleneagles.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.52,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0002)",
+      "provenance": "Institution domain mark (www.pantai.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.55,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0003)",
+      "provenance": "Institution domain mark (princecourt.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.41,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0004)",
+      "provenance": "Institution domain mark (www.ijn.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.18,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0005)",
+      "provenance": "Institution domain mark (www.sunwaymedical.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0006)",
+      "provenance": "Institution domain mark (www.sunwaymedicalvelocity.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.53,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0007)",
+      "provenance": "Institution domain mark (www.sunwaymedicalpenang.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.53,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0008)",
+      "provenance": "Institution domain mark (gleneagles.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.88,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0009)",
+      "provenance": "Institution domain mark (www.pantai.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.96,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0010)",
+      "provenance": "Institution domain mark (gleneagles.com.my) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-MY-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.38,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-MY-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.08,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0001)",
+      "provenance": "Institution domain mark (www.muscatprivatehospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.95,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0002)",
+      "provenance": "Institution domain mark (aster.om) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.53,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0003)",
+      "provenance": "Institution domain mark (burjeel.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.83,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0004)",
+      "provenance": "Institution domain mark (starcarehospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0005)",
+      "provenance": "Institution domain mark (www.badralsamaa.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.36,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0006)",
+      "provenance": "Institution domain mark (www.badralsamaa.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.64,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0007)",
+      "provenance": "Institution domain mark (www.badralsamaa.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.4,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0008)",
+      "provenance": "Institution domain mark (alhayathospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.86,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0009)",
+      "provenance": "Institution domain mark (kimshealth.om) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.93,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0010)",
+      "provenance": "Institution domain mark (www.apollomuscat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-OM-0021.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.26,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-OM-0021)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.67,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0001)",
+      "provenance": "Institution domain mark (www.nsi.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.14,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0002)",
+      "provenance": "Institution domain mark (www.cardioweb.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.93,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0003)",
+      "provenance": "Institution domain mark (www.ronc.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0004)",
+      "provenance": "Institution domain mark (www.emcmos.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.83,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0005)",
+      "provenance": "Institution domain mark (www.medicina.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.37,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0006)",
+      "provenance": "Institution domain mark (hadassah.moscow) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.09,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0007)",
+      "provenance": "Institution domain mark (www.almazovcentre.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.39,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0008)",
+      "provenance": "Institution domain mark (www.niioncologii.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0009)",
+      "provenance": "Institution domain mark (meshalkin.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.65,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0010)",
+      "provenance": "Institution domain mark (www.mntk.ru) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-RU-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.21,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-RU-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.6,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0001)",
+      "provenance": "Institution domain mark (www.kfshrc.edu.sa) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.33,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0002)",
+      "provenance": "Institution domain mark (www.hmg.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.45,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0003)",
+      "provenance": "Institution domain mark (www.hmg.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.64,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0004)",
+      "provenance": "Institution domain mark (www.hmg.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.52,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0005)",
+      "provenance": "Institution domain mark (www.hmg.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.6,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0006)",
+      "provenance": "Institution domain mark (www.kfshrc.edu.sa) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.41,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0007)",
+      "provenance": "Institution domain mark (www.imc.med.sa) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.05,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0008)",
+      "provenance": "Institution domain mark (www.fakeeh.care) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.73,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0009)",
+      "provenance": "Institution domain mark (sghcairo.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0010)",
+      "provenance": "Institution domain mark (sghcairo.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SA-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.17,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SA-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.12,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0001)",
+      "provenance": "Institution domain mark (www.mountelizabeth.com.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.13,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0002)",
+      "provenance": "Institution domain mark (www.mountelizabeth.com.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.67,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0003)",
+      "provenance": "Institution domain mark (www.gleneagles.com.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.58,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0004)",
+      "provenance": "Institution domain mark (www.parkwayeast.com.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0005)",
+      "provenance": "Institution domain mark (www.rafflesmedicalgroup.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.34,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0006)",
+      "provenance": "Institution domain mark (www.farrerpark.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.59,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0007)",
+      "provenance": "Institution domain mark (www.thomsonmedical.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.23,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0008)",
+      "provenance": "Institution domain mark (mtalvernia.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.4,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0009)",
+      "provenance": "Institution domain mark (www.sgh.com.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.35,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0010)",
+      "provenance": "Institution domain mark (www.nuh.com.sg) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-SG-0026.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.28,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-SG-0026)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.54,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0001)",
+      "provenance": "Institution domain mark (www.bumrungrad.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.8,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0002)",
+      "provenance": "Institution domain mark (www.bangkokhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.75,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0003)",
+      "provenance": "Institution domain mark (www.bangkokhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.08,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0004)",
+      "provenance": "Institution domain mark (www.bangkokhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.29,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0005)",
+      "provenance": "Institution domain mark (www.bangkokhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.2,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0006)",
+      "provenance": "Institution domain mark (www.samitivejhospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.19,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0007)",
+      "provenance": "Institution domain mark (www.samitivejhospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.18,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0008)",
+      "provenance": "Institution domain mark (www.samitivejhospitals.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.53,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0009)",
+      "provenance": "Institution domain mark (www.bnhhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.73,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0010)",
+      "provenance": "Institution domain mark (www.medparkhospital.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TH-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.86,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TH-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.97,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0001)",
+      "provenance": "Institution domain mark (www.clinique-pasteur.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.71,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0002)",
+      "provenance": "Institution domain mark (www.clinique-hannibal.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.82,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0003)",
+      "provenance": "Institution domain mark (cliniquelesjasmins.com.tn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.3,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0004)",
+      "provenance": "Institution domain mark (www.cliniquetaoufik.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.72,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0005)",
+      "provenance": "Institution domain mark (www.cliniquedelasoukra.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.48,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0006)",
+      "provenance": "Institution domain mark (cliniquesaintaugustin.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.34,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0007)",
+      "provenance": "Institution domain mark (cliniquealyssa.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.15,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0008)",
+      "provenance": "Institution domain mark (cliniqueavicenne.tn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 10.31,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0009)",
+      "provenance": "Institution domain mark (cliniquemyron.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.23,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0010)",
+      "provenance": "Institution domain mark (clinique-bergesdulac.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TN-0016.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 8.85,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TN-0016)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.63,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0001)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.03,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0002)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.02,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0003)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.92,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0004)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.86,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0005)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0006)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.49,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0007)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.07,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0008)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.69,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0009)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-TR-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.45,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-TR-0010)",
+      "provenance": "Institution domain mark (www.acibadem.com.tr) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.13,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0001)",
+      "provenance": "Institution domain mark (tudu.com.vn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.5,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0002)",
+      "provenance": "Institution domain mark (benhv协作.gov.vn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.71,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0003)",
+      "provenance": "Institution domain mark (benhvienmat.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 15.03,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0004)",
+      "provenance": "Institution domain mark (www.rafflesmedical.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.87,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0005)",
+      "provenance": "Institution domain mark (careplusvn.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.46,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0006)",
+      "provenance": "Institution domain mark (www.columbiaasia.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.0,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0007)",
+      "provenance": "Institution domain mark (nhakhoapeace.com) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 17.58,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0008)",
+      "provenance": "Institution domain mark (benhvienworldwide.vn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.45,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0009)",
+      "provenance": "Institution domain mark (starlightdental.net) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 14.71,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0010)",
+      "provenance": "Institution domain mark (choray.vn) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-VN-0026.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.44,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-VN-0026)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0001.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.27,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0001)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0002.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.4,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0002)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0003.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 13.28,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0003)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0004.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 12.61,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0004)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0005.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.35,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0005)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0006.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.36,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0006)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0007.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.24,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0007)",
+      "provenance": "Institution domain mark (www.netcare.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0008.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.68,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0008)",
+      "provenance": "Institution domain mark (www.mediclinic.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0009.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.32,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0009)",
+      "provenance": "Institution domain mark (www.mediclinic.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0010.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 11.29,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0010)",
+      "provenance": "Institution domain mark (www.mediclinic.co.za) on 600×240 transparent RGBA badge",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/logos/TZ-ZA-0026.webp",
+      "type": "hospital_logo",
+      "dimensions": "600×240",
+      "size_kb": 9.19,
+      "format": "WEBP (RGBA)",
+      "used_on": "/p/hospitals-directory.html (TZ-ZA-0026)",
+      "provenance": "First-party 600×240 transparent RGBA institution monogram",
+      "status": "COMPLIANT_600x240_TRANSPARENT_WEBP"
+    },
+    {
+      "file": "media/specialties/SPEC-01.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.64,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-02.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.51,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-03.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.54,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-04.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.53,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-05.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.58,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-06.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.48,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-07.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.47,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-08.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.49,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-09.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.54,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/specialties/SPEC-10.svg",
+      "type": "specialty_icon",
+      "dimensions": "54×54 (viewBox 0 0 54 54)",
+      "size_kb": 0.47,
+      "format": "SVG",
+      "used_on": "/p/doctors-directory.html, /p/treatment-costs.html",
+      "provenance": "First-party SecretaryBird normalised vector icon (C2 compliant)",
+      "status": "COMPLIANT_INLINE_SVG"
+    },
+    {
+      "file": "media/magazines/edition-01-card.webp",
+      "type": "magazine_cover",
+      "dimensions": "800×450",
+      "size_kb": 57.53,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/) #sb-editorial-section",
+      "provenance": "First-party SecretaryBird Collector Edition Magazine cover",
+      "status": "COMPLIANT_MAGAZINE_WEBP"
+    },
+    {
+      "file": "media/magazines/edition-01-cover.webp",
+      "type": "magazine_cover",
+      "dimensions": "600×840",
+      "size_kb": 56.42,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/) #sb-editorial-section",
+      "provenance": "First-party SecretaryBird Collector Edition Magazine cover",
+      "status": "COMPLIANT_MAGAZINE_WEBP"
+    },
+    {
+      "file": "media/magazines/edition-02-card.webp",
+      "type": "magazine_cover",
+      "dimensions": "800×450",
+      "size_kb": 69.72,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/) #sb-editorial-section",
+      "provenance": "First-party SecretaryBird Collector Edition Magazine cover",
+      "status": "COMPLIANT_MAGAZINE_WEBP"
+    },
+    {
+      "file": "media/magazines/edition-02-cover.webp",
+      "type": "magazine_cover",
+      "dimensions": "600×840",
+      "size_kb": 62.8,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/) #sb-editorial-section",
+      "provenance": "First-party SecretaryBird Collector Edition Magazine cover",
+      "status": "COMPLIANT_MAGAZINE_WEBP"
+    },
+    {
+      "file": "media/magazines/edition-03-card.webp",
+      "type": "magazine_cover",
+      "dimensions": "800×450",
+      "size_kb": 24.51,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/) #sb-editorial-section",
+      "provenance": "First-party SecretaryBird Collector Edition Magazine cover",
+      "status": "COMPLIANT_MAGAZINE_WEBP"
+    },
+    {
+      "file": "media/magazines/edition-03-cover.webp",
+      "type": "magazine_cover",
+      "dimensions": "600×840",
+      "size_kb": 29.65,
+      "format": "WEBP (RGB)",
+      "used_on": "Homepage (/) #sb-editorial-section",
+      "provenance": "First-party SecretaryBird Collector Edition Magazine cover",
+      "status": "COMPLIANT_MAGAZINE_WEBP"
+    }
+  ]
+}
