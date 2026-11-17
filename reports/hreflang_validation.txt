@@ -1,0 +1,16 @@
+=== SecretaryBird Hreflang Sitemap Validation Report ===
+Sitemap file           : sitemaps/hreflang.xml
+File size              : 146,956 bytes (< 50 MB limit: PASS)
+UTF-8 without BOM      : PASS
+Well-formed XML        : PASS
+Total <url> entries    : 200 (< 50,000 limit: PASS)
+Distinct groups        : 79
+Duplicate <loc> count  : 0
+Self-referencing check : PASS
+Reciprocity check      : PASS
+Unique hreflang/group  : PASS
+Single group per URL   : PASS
+HTTP 200 verified      : 200/200
+Self-canonical verified: 200/200
+
+RESULT: PASS (0 errors)
