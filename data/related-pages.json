@@ -1,0 +1,511 @@
+{
+  "generated": "2026-11-17",
+  "pages": {
+    "https://www.thesecretarybird.com/2024/11/cl%C3%ADnica-medell%C3%ADn---sede-el-poblado.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2024/11/jk-plastic-surgery-hospital.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2024/11/simnsa-health-plan-hospital-hospital-blu.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/abdali-medical-center-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-jordan-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/istanbul-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-turkiye-accredited.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html"
+      ],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html",
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_669.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_424.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html"
+      ],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html",
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/apollo-proton-cancer-centre-apcc.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/chennai-greams-road-and-omr-proton.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/archbishop-makarios-iii-hospital.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-cyprus-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/aretaeio-medical-center-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-cyprus-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-maadi.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-egypt-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-new.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-egypt-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/aster-royal-hospital-al-ghubra.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-oman-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/bahrain-specialist-hospital.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-bahrain-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/bangkok-hospital-headquarter.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
+      "translations": [],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_02095926583.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_585.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_45.html",
+      "translations": [],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/burdenko-national-medical-research.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-russia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/cedimat-centro-cardiovascular.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-dominican-republic.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/cedimat-centro-de-diagnostico-medicina.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-dominican-republic.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/centro-medico-abc-campus-observatorio.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/charite-campus-benjamin-franklin.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_01747796383.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_01747796383.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_402.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_978.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_0303435685.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
+      "translations": [],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_868.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_462.html",
+      "translations": [],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi_0692631550.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01485145713.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01286074198.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01485145713.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/_04.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/_0.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/dar-al-shifa-hospital-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-kuwait-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/dr-sulaiman-al-habib-hospital-al-olaya.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-saudi-arabia.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-central.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-instituto.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/fuwai-hospital-cams-international.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/gleneagles-hospital-kuala-lumpur.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/kuala-lumpur-ampang-bangsar-and-bukit.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-malaysia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hopital-universitaire-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-morocco-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hopital-universitaire-international_01370343880.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-morocco-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hospital-angeles-tijuana-international.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hospital-cima-san-jose-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-costa-rica.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hospital-clinic-de-barcelona-global.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/barcelona-eixample-and-sarria-sant.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hospital-clinica-biblica-sede-central.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-costa-rica.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hospital-general-universitario-gregorio.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/madrid-castellana-pozuelo-and-salamanca.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/hospital-infantil-universitario-nino.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/madrid-castellana-pozuelo-and-salamanca.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi_02048666486.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital_01082115315.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/kbc-zagreb-draskoviceva-traumatology.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/kbc-zagreb-salata-campus-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/king-faisal-specialist-hospital.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-saudi-arabia.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/king-hamad-university-hospital.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-bahrain-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/king-hussein-cancer-center.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-jordan-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/max-super-speciality-hospital-saket-jci.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/gurugram-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "translations": [],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/medanta-medicity.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/medanta-medicity.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_565.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_754.html",
+      "translations": [],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/medica-sur-international-patient-desk.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/istanbul-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-turkiye-accredited.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html"
+      ],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html",
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_669.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_424.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html"
+      ],
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html",
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html"
+      ]
+    },
+    "https://www.thesecretarybird.com/2026/11/minsk-scientific-practical-center-for.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-belarus-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/mount-elizabeth-hospital-orchard.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-singapore-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/mount-elizabeth-novena-hospital.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-singapore-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/muscat-private-hospital-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-oman-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/narayana-health-city-bengaluru-india.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/bengaluru-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/narayana-health-city.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/narayana-health-city.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_829.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_754.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/narayana-health-city-bengaluru-india.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/national-medical-research-center-of.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-russia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/nn-aleksandrov-republican-scientific.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-belarus-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/pantai-hospital-kuala-lumpur.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/kuala-lumpur-ampang-bangsar-and-bukit.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-malaysia-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_0512443781.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_01205768358.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_0512443781.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_591.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_10.html",
+      "translations": [
+        "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital.html"
+      ],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/rigshospitalet-blegdamsvej-quaternary.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-denmark-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/rigshospitalet-finsen-center-for-cancer.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-denmark-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/royale-hayat-hospital-international.html": {
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-kuwait-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/sheikh-shakhbout-medical-city.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    },
+    "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital_0647999107.html": {
+      "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "translations": [],
+      "same_city_hospitals": []
+    }
+  }
+}
