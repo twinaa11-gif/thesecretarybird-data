@@ -1,511 +1,1270 @@
 {
   "generated": "2026-11-17",
+  "titles": {
+    "https://www.thesecretarybird.com/2024/11/cl%C3%ADnica-medell%C3%ADn---sede-el-poblado.html": "Clínica Medellín - Sede El Poblado",
+    "https://www.thesecretarybird.com/2024/11/guide-usa-medellin.html": "Travelling from the US and Canada to Medellín for Plastic, Orthopedic and Dental Care: Check-Mig, MDE Transfers and El Poblado Recovery",
+    "https://www.thesecretarybird.com/2024/11/guide-usa-tijuana.html": "Travelling from the US and Canada to Tijuana for Bariatric and Dental Surgery: SAN Airport Shuttle and FastLane Medical Pass",
+    "https://www.thesecretarybird.com/2024/11/jk-plastic-surgery-hospital.html": "JK Plastic Surgery Hospital",
+    "https://www.thesecretarybird.com/2024/11/simnsa-health-plan-hospital-hospital-blu.html": "SIMNSA Health Plan Hospital (Hospital Blue)",
+    "https://www.thesecretarybird.com/2026/11/20-proc-01-proc-20-treatment-cost.html": "[Русский] Все 20 процедур и пакетов (PROC-01 – PROC-20) — Treatment Cost Comparison",
+    "https://www.thesecretarybird.com/2026/11/20-proc-01-proc-20.html": "[Українська] Усі 20 процедур і пакетів (PROC-01 – PROC-20) — Орієнтовна вартість пакету клініки",
+    "https://www.thesecretarybird.com/2026/11/20-proc-01-proc-20_01512936251.html": "[Қазақ тілі] Барлық 20 ота мен пакет (PROC-01 – PROC-20) — Клиника пакетінің болжамды құны",
+    "https://www.thesecretarybird.com/2026/11/20-proc-01-proc-20_01717836969.html": "[हिन्दी] सभी 20 प्रक्रियाएं और पैकेज (PROC-01 – PROC-20) — अस्पताल पैकेज की अनुमानित सीमा",
+    "https://www.thesecretarybird.com/2026/11/20-proc-01-proc-20_0711023013.html": "[日本語] 全20の手術・パッケージ (PROC-01 – PROC-20) — 病院パッケージ費用目安",
+    "https://www.thesecretarybird.com/2026/11/20-proc-01-proc-20_0728367089.html": "[Български] Всички 20 операции и пакети (PROC-01 – PROC-20) — Ориентировъчна пакетна цена на болницата",
+    "https://www.thesecretarybird.com/2026/11/20.html": "دليل تكاليف العمليات الجراحية والباقات العلاجية الشاملة (20 إجراءً طبياً)",
+    "https://www.thesecretarybird.com/2026/11/2026-secretarybird.html": "চিকিৎসার খরচ ও সার্জারি প্যাকেজ মূল্য 2026 | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544.html": "32 Global Medical Destinations & 544 Cities (አማርኛ)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_01178005756.html": "32 Global Medical Destinations & 544 Cities (English)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_01308972345.html": "32 Global Medical Destinations & 544 Cities (ትግርኛ)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0142251804.html": "32 Global Medical Destinations & 544 Cities (Русский)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_01583845639.html": "32 Global Medical Destinations & 544 Cities (Hausa)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0170905340.html": "32 Global Medical Destinations & 544 Cities (Afaan Oromoo)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_01808810142.html": "32 Global Medical Destinations & 544 Cities (کوردیی سۆرانی)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_01836339033.html": "32 Global Medical Destinations & 544 Cities (Kiswahili)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_01922644124.html": "32 Global Medical Destinations & 544 Cities (বাংলা)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0208870567.html": "32 Global Medical Destinations & 544 Cities (Yorùbá)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0303701706.html": "32 Global Medical Destinations & 544 Cities (Français (Afrique))",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0748285947.html": "32 Global Medical Destinations & 544 Cities (العربية)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_075839369.html": "32 Global Medical Destinations & 544 Cities (Soomaali)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0815857149.html": "32 Global Medical Destinations & 544 Cities (فارسی / دری)",
+    "https://www.thesecretarybird.com/2026/11/32-global-medical-destinations-544_0897331312.html": "32 Global Medical Destinations & 544 Cities (Ásụ̀sụ́ Ìgbò)",
+    "https://www.thesecretarybird.com/2026/11/32-medical-corridors.html": "ЭКО и репродуктивная медицина · Бариатрическая и метаболическая хирургия · Имплантация зубов и ЧЛХ · Пересадка волос и эстетическая дерматология (Русский — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/32-medical-corridors_01384074875.html": "ЕКЗ та репродуктивна медицина · Баріатрична та метаболічна хірургія · Імплантація зубів та щелепно-лицева хірургія · Трансплантація волосся та естетична дерматологія (Українська — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/32.html": "زراعة الكبد من متبرع حي في 32 وجهة طبية معتمدة: الشروط القانونية ومدة الإقامة ونطاق التكلفة",
+    "https://www.thesecretarybird.com/2026/11/320-doctors-32-countries.html": "[Українська] Провідний хірург & Медична спеціалізація (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/320-doctors-32-countries_01940296953.html": "[Қазақ тілі] Бас хирург & Медициналық мамандық (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/320-doctors-32-countries_02039861065.html": "[Български] Водещ хирург & Медицинска специалност (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/320-doctors-32-countries_0309677782.html": "[বাংলা] প্রধান সার্জন & চিকিৎসা বিভাগ (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/320-doctors-32-countries_088498464.html": "[日本語] 執刀医プロフィール & 診療科・専門分野 (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/32_01703520760.html": "الدليل العالمي للمستشفيات المعتمدة وشقق النقاهة الفندقية (32 وجهة)",
+    "https://www.thesecretarybird.com/2026/11/32_085734417.html": "دليل التأشيرة العلاجية وخطابات الدعوة الرسمية للمستشفيات في 32 وجهة طبية معتمدة",
+    "https://www.thesecretarybird.com/2026/11/_0.html": "دليل العلاج والسياحة الطبية في كولومبيا",
+    "https://www.thesecretarybird.com/2026/11/_004.html": "دليل العلاج والسياحة الطبية في البحرين",
+    "https://www.thesecretarybird.com/2026/11/_03.html": "دليل العلاج والسياحة الطبية في إسبانيا",
+    "https://www.thesecretarybird.com/2026/11/_04.html": "دليل العلاج والسياحة الطبية في ميديلين الطبية (كولومبيا)",
+    "https://www.thesecretarybird.com/2026/11/_05.html": "دليل العلاج والسياحة الطبية في الدنمارك",
+    "https://www.thesecretarybird.com/2026/11/_097.html": "دليل العلاج والسياحة الطبية في جمهورية الدومينيكان",
+    "https://www.thesecretarybird.com/2026/11/_14.html": "دليل العلاج والسياحة الطبية في المغرب",
+    "https://www.thesecretarybird.com/2026/11/_2.html": "دليل العلاج والسياحة الطبية في كرواتيا",
+    "https://www.thesecretarybird.com/2026/11/_24.html": "دليل العلاج والسياحة الطبية في تيخوانا وممر باجا الطبي (المكسيك)",
+    "https://www.thesecretarybird.com/2026/11/_30.html": "دليل العلاج والسياحة الطبية في جنوب أفريقيا",
+    "https://www.thesecretarybird.com/2026/11/_37.html": "دليل العلاج والسياحة الطبية في الكويت",
+    "https://www.thesecretarybird.com/2026/11/_417.html": "دليل العلاج والسياحة الطبية في بيلاروسيا",
+    "https://www.thesecretarybird.com/2026/11/_421.html": "دليل العلاج والسياحة الطبية في منطقة غانغنام الطبية (سيول)",
+    "https://www.thesecretarybird.com/2026/11/_458.html": "دليل العلاج والسياحة الطبية في سلطنة عُمان",
+    "https://www.thesecretarybird.com/2026/11/_5.html": "دليل العلاج والسياحة الطبية في فيتنام",
+    "https://www.thesecretarybird.com/2026/11/_52.html": "دليل العلاج والسياحة الطبية في المملكة العربية السعودية",
+    "https://www.thesecretarybird.com/2026/11/_53.html": "دليل العلاج والسياحة الطبية في ماليزيا",
+    "https://www.thesecretarybird.com/2026/11/_55.html": "دليل العلاج والسياحة الطبية في كوريا الجنوبية",
+    "https://www.thesecretarybird.com/2026/11/_609.html": "دليل العلاج والسياحة الطبية في الأردن",
+    "https://www.thesecretarybird.com/2026/11/_78.html": "دليل العلاج والسياحة الطبية في تونس",
+    "https://www.thesecretarybird.com/2026/11/_80.html": "دليل العلاج والسياحة الطبية في المكسيك",
+    "https://www.thesecretarybird.com/2026/11/_87.html": "دليل العلاج والسياحة الطبية في قبرص",
+    "https://www.thesecretarybird.com/2026/11/_924.html": "دليل العلاج والسياحة الطبية في مصر",
+    "https://www.thesecretarybird.com/2026/11/_926.html": "دليل العلاج والسياحة الطبية في روسيا",
+    "https://www.thesecretarybird.com/2026/11/_928.html": "دليل العلاج والسياحة الطبية في كوستاريكا",
+    "https://www.thesecretarybird.com/2026/11/_955.html": "دليل العلاج والسياحة الطبية في سنغافورة",
+    "https://www.thesecretarybird.com/2026/11/abdali-medical-center-international.html": "Abdali Medical Center",
+    "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html": "Abu Dhabi Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/akojo-awon-dokita-agba-onise-abe.html": "Àkójọ Àwọn Dókítà Àgbà & Oníṣẹ́-Abẹ | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/akojo-awon-ile-iwosan-jci-irin-ajo.html": "Àkójọ Àwọn Ilé-Ìwòsàn JCI & Irin-Àjò Ìlera | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/all-on-4-all-on-6-full-arch-dental.html": "All-on-4 / All-on-6 Full-Arch Dental Implants with Immediate Fixed Prosthesis (Per Arch): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html": "Anadolu Medical Center (Istanbul, TURKEY)",
+    "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html": "مركز أنادولو الطبي (Anadolu Medical Center) (إسطنبول) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/annuaire-des-meilleurs-chirurgiens.html": "Annuaire des Meilleurs Chirurgiens & Spécialistes | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/annuaire-hopitaux-accredites-jci-sejour.html": "Annuaire Hôpitaux Accrédités JCI & Séjour Médical | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/anonymous-phenotype-matched-egg.html": "Anonymous / Phenotype-Matched Egg Donation IVF Cycle with Guarantee Option: Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/apollo-proton-cancer-centre-apcc.html": "Apollo Proton Cancer Centre (APCC) Chennai (JCI - South Asia's First Proton Center)",
+    "https://www.thesecretarybird.com/2026/11/archbishop-makarios-iii-hospital.html": "Archbishop Makarios III Hospital (Makario)",
+    "https://www.thesecretarybird.com/2026/11/aretaeio-medical-center-international.html": "Aretaeio Medical Center",
+    "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-maadi.html": "As-Salam International Hospital Maadi",
+    "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-new.html": "As-Salam International Hospital New Cairo",
+    "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html": "Asan Medical Center",
+    "https://www.thesecretarybird.com/2026/11/aster-royal-hospital-al-ghubra.html": "Aster Royal Hospital Al Ghubra",
+    "https://www.thesecretarybird.com/2026/11/baasii-yaalaa-paakeejii-baqaqsanii.html": "Baasii Yaalaa & Paakeejii Baqaqsanii Hodhuu | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/bahasa-indonesia-dokter-bedah-utama.html": "[Bahasa Indonesia] Dokter Bedah Utama & Spesialisasi Medis (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/bahasa-indonesia-semua-20-prosedur.html": "[Bahasa Indonesia] Semua 20 Prosedur & Paket (PROC-01 – PROC-20) — Estimasi Biaya Paket Rumah Sakit",
+    "https://www.thesecretarybird.com/2026/11/bahrain-specialist-hospital.html": "Bahrain Specialist Hospital",
+    "https://www.thesecretarybird.com/2026/11/bangkok-hospital-headquarter.html": "Bangkok Hospital Headquarter",
+    "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html": "Bangkok Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/barcelona-eixample-and-sarria-sant.html": "Barcelona (Eixample and Sarrià-Sant Gervasi) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/barcelona-eixample-and-sarria-sant_01808322681.html": "دليل العلاج والمستشفيات المعتمدة في Barcelona (Eixample and Sarrià-Sant Gervasi) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/bayi-tabung-ivf-kedokteran-reproduksi.html": "Bayi Tabung (IVF) & Kedokteran Reproduksi · Bedah Bariatrik & Metabolik · Implan Gigi & Bedah Mulut Maksilofasial · Transplantasi Rambut & Dermatologi Estetika (Bahasa Indonesia — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html": "Beijing Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/bengaluru-medical-tourism-hospital-hub.html": "Bengaluru Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html": "Berlin Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/bilateral-deep-brain-stimulation-dbs.html": "Bilateral Deep Brain Stimulation (DBS) Implantation for Parkinson's Disease: Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/blog-post.html": "Aortic valve replacement (TAVI/TAVR vs open surgery) across 32 medical destinations",
+    "https://www.thesecretarybird.com/2026/11/blog-post_09.html": "Coronary artery bypass grafting (CABG) across 32 medical destinations: off-pump, stay & cost scope",
+    "https://www.thesecretarybird.com/2026/11/blog-post_10.html": "دليل السفر العلاجي إلى الصين — المستشفيات والفيزا والتكاليف",
+    "https://www.thesecretarybird.com/2026/11/blog-post_150.html": "استبدال مفصل الورك الكلي — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/blog-post_182.html": "دليل السفر العلاجي من العراق إلى الهند: التأشيرة وخطابات الدعوة وترتيبات الرعاية",
+    "https://www.thesecretarybird.com/2026/11/blog-post_35.html": "برنامج علاج سرطان الثدي — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/blog-post_402.html": "دليل المستشفيات والمراكز التخصصية في برلين",
+    "https://www.thesecretarybird.com/2026/11/blog-post_42.html": "كيف تقرأ باقة السفر العلاجي: البنود المشمولة، التكاليف غير المرئية، وفترة التعافي الفعلية",
+    "https://www.thesecretarybird.com/2026/11/blog-post_424.html": "دليل السفر العلاجي إلى تركيا — المستشفيات والفيزا والتكاليف",
+    "https://www.thesecretarybird.com/2026/11/blog-post_45.html": "دليل السفر العلاجي إلى تايلاند — المستشفيات والفيزا والتكاليف",
+    "https://www.thesecretarybird.com/2026/11/blog-post_462.html": "دليل السفر العلاجي إلى الإمارات العربية المتحدة — المستشفيات والفيزا والتكاليف",
+    "https://www.thesecretarybird.com/2026/11/blog-post_464.html": "دليل الأطباء الاستشاريين والجراحين العالميين في التخصصات الدقيقة",
+    "https://www.thesecretarybird.com/2026/11/blog-post_496.html": "دمج الفقرات (مستوى أو مستويان) — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/blog-post_4960.html": "دليل المستشفيات والمراكز التخصصية في دبي",
+    "https://www.thesecretarybird.com/2026/11/blog-post_502.html": "تكلفة جراحة ويبل لاستئصال أورام البنكرياس بالروبوت/المنظار: مقارنة الباقات العالمية ومدة التعافي وتصريح السفر",
+    "https://www.thesecretarybird.com/2026/11/blog-post_565.html": "دليل المستشفيات والمراكز التخصصية في غوروغرام",
+    "https://www.thesecretarybird.com/2026/11/blog-post_573.html": "دورة أطفال الأنابيب مع الحقن المجهري — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/blog-post_585.html": "دليل المستشفيات والمراكز التخصصية في بانكوك",
+    "https://www.thesecretarybird.com/2026/11/blog-post_591.html": "دليل المستشفيات والمراكز التخصصية في بكين",
+    "https://www.thesecretarybird.com/2026/11/blog-post_669.html": "دليل المستشفيات والمراكز التخصصية في إسطنبول",
+    "https://www.thesecretarybird.com/2026/11/blog-post_73.html": "استئصال البروستاتا الجذري بالروبوت — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/blog-post_754.html": "دليل السفر العلاجي إلى الهند — المستشفيات والفيزا والتكاليف",
+    "https://www.thesecretarybird.com/2026/11/blog-post_777.html": "استبدال الصمام التاجي — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/blog-post_788.html": "دليل السفر العلاجي من سلطنة عُمان إلى الهند: التأشيرة، الرحلات، وترتيبات الإقامة",
+    "https://www.thesecretarybird.com/2026/11/blog-post_829.html": "دليل المستشفيات والمراكز التخصصية في بنغالورو",
+    "https://www.thesecretarybird.com/2026/11/blog-post_868.html": "دليل المستشفيات والمراكز التخصصية في أبوظبي",
+    "https://www.thesecretarybird.com/2026/11/blog-post_978.html": "دليل السفر العلاجي إلى ألمانيا — المستشفيات والفيزا والتكاليف",
+    "https://www.thesecretarybird.com/2026/11/blog-post_984.html": "استبدال مفصل الركبة الكلي — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/boao-lecheng-international-medical.html": "Boao Lecheng International Medical Pilot Zone (Hainan) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/boao-lecheng-international-medical_02068137299.html": "دليل العلاج والمستشفيات المعتمدة في Boao Lecheng International Medical Pilot Zone (Hainan) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/bone-marrow-transplant-bmt-across.html": "Bone marrow transplant (BMT) across accredited destinations: HLA typing, HEPA isolation & stay",
+    "https://www.thesecretarybird.com/2026/11/breast-cancer-treatment-programme.html": "Breast cancer treatment programme — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html": "Bumrungrad International Hospital (Bangkok, THAILAND)",
+    "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_02095926583.html": "Bumrungrad International Hospital",
+    "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html": "مستشفى بومرونغراد الدولي (Bumrungrad International Hospital) (بانكوك) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/burdenko-national-medical-research.html": "Burdenko National Medical Research Center for Neurosurgery",
+    "https://www.thesecretarybird.com/2026/11/buugga-dhakhaatiirta-takhasuska-sare.html": "Buugga Dhakhaatiirta Takhasuska Sare | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/cabg-heart-bypass-surgery-indicative.html": "CABG — heart bypass surgery — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/cabg.html": "جراحة تحويل مسار الشريان التاجي (CABG) — التكاليف الاسترشادية وفترة التعافي وأفضل المستشفيات",
+    "https://www.thesecretarybird.com/2026/11/cardiologia-e-cardiochirurgia-oncologia.html": "Cardiologia e Cardiochirurgia · Oncologia e Chirurgia Robotica · Ortopedia e Protesi Articolari · Neurochirurgia e Colonna Vertebrale (Italiano — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/cardiologia-e-cirurgia-cardiaca.html": "Cardiologia e Cirurgia Cardíaca · Oncologia e Cirurgia Robótica do Cancro · Ortopedia e Prótese Articular · Neurocirurgia e Cirurgia da Coluna (Português — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/cardiologia-y-cirugia-cardiaca.html": "Cardiología y Cirugía Cardíaca · Oncología y Cirugía Robótica · Ortopedia y Reemplazo Articular · Neurocirugía y Columna (Español — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/cardiologie-et-chirurgie-cardiaque.html": "Cardiologie et chirurgie cardiaque · Oncologie et chirurgie robotique · Orthopédie et prothèses articulaires · Neurochirurgie et colonne vertébrale (Français — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/cardiologie-si-chirurgie-cardiaca.html": "Cardiologie și Chirurgie Cardiacă · Oncologie și Chirurgie Robotică a Cancerului · Ortopedie și Protezare Articulară · Neurochirurgie și Chirurgia Coloanei Vertebrale (Română — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/cedimat-centro-cardiovascular.html": "CEDIMAT - Centro Cardiovascular",
+    "https://www.thesecretarybird.com/2026/11/cedimat-centro-de-diagnostico-medicina.html": "CEDIMAT - Centro de Diagnóstico, Medicina Avanzada y Telemedicina",
+    "https://www.thesecretarybird.com/2026/11/centro-medico-abc-campus-observatorio.html": "Centro Médico ABC - Campus Observatorio",
+    "https://www.thesecretarybird.com/2026/11/charite-campus-benjamin-franklin.html": "Charité Campus Benjamin Franklin",
+    "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin.html": "Charité — Universitätsmedizin Berlin (Berlin, GERMANY)",
+    "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_01747796383.html": "مستشفى شاريتيه الجامعي في برلين (Charité — Universitätsmedizin Berlin) (برلين) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_0303435685.html": "Charité - Universitätsmedizin Berlin",
+    "https://www.thesecretarybird.com/2026/11/chennai-greams-road-and-omr-proton.html": "Chennai (Greams Road and OMR Proton Corridor) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/chennai-greams-road-and-omr-proton_01676231331.html": "دليل العلاج والمستشفيات المعتمدة في Chennai (Greams Road and OMR Proton Corridor) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html": "Cleveland Clinic Abu Dhabi (Abu Dhabi, UAE)",
+    "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html": "كليفلاند كلينك أبوظبي (Cleveland Clinic Abu Dhabi) (أبوظبي) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi_0692631550.html": "Cleveland Clinic Abu Dhabi",
+    "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html": "Clínica Las Vegas",
+    "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado.html": "Clínica Medellín - Sede El Poblado",
+    "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01286074198.html": "Clínica Medellín - Sede El Poblado",
+    "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01485145713.html": "ملف Clínica Medellín - Sede El Poblado",
+    "https://www.thesecretarybird.com/2026/11/dar-al-shifa-hospital-international.html": "Dar Al Shifa Hospital",
+    "https://www.thesecretarybird.com/2026/11/dbs.html": "تكلفة زراعة جهاز التحفيز العميق للدماغ لعلاج باركنسون (DBS): مقارنة الباقات العالمية ومدة التعافي وتصريح السفر",
+    "https://www.thesecretarybird.com/2026/11/deep-plane-facelift-and-neck-lift.html": "Deep Plane Facelift and Neck Lift (Extended SMAS / Platysmaplasty): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/deutsch-alle-20-eingriffe-pakete-proc.html": "[Deutsch] Alle 20 Eingriffe & Pakete (PROC-01 – PROC-20) — Geschätzte Klinik-Paketspanne",
+    "https://www.thesecretarybird.com/2026/11/deutsch-leitender-chirurg-medizinisches.html": "[Deutsch] Leitender Chirurg & Medizinisches Fachgebiet (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/digital-smile-makeover-20-porcelain.html": "Digital Smile Makeover — 20 Porcelain E.max / Feldspathic Veneers (Full Mouth): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/direct-anterior-approach-total-hip.html": "Direct Anterior Approach Total Hip Arthroplasty (Ceramic-on-Ceramic THR): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/direct-anterior-approach-total-hip_0403236945.html": "تكلفة Direct Anterior Approach Total Hip Arthroplasty (Ceramic-on-Ceramic THR): مقارنة الباقات العالمية ومدة التعافي وتصريح السفر",
+    "https://www.thesecretarybird.com/2026/11/dr-sulaiman-al-habib-hospital-al-olaya.html": "Dr. Sulaiman Al Habib Hospital Al Olaya",
+    "https://www.thesecretarybird.com/2026/11/dubai-medical-tourism-hospital-hub-guide.html": "Dubai Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/espanol-cirujano-principal-especialidad.html": "[Español] Cirujano principal & Especialidad médica (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/espanol-los-20-procedimientos-y.html": "[Español] Los 20 procedimientos y paquetes (PROC-01 – PROC-20) — Rango estimado del paquete hospitalario",
+    "https://www.thesecretarybird.com/2026/11/farashin-aikin-fida-kunshin-jinya.html": "Farashin Aikin Fida & Kunshin Jinya | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/femtosecond-laser-cataract-refractive.html": "Femtosecond Laser Cataract / Refractive Lens Exchange with Trifocal IOL (Bilateral): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/fertilizacao-in-vitro-fiv-e-reproducao.html": "Fertilização In Vitro (FIV) e Reprodução Humana · Cirurgia Bariátrica e Metabólica · Implantes Dentários e Cirurgia Maxilofacial · Transplante Capilar e Dermatologia Estética (Português — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/fertilizare-in-vitro-fiv-si-medicina.html": "Fertilizare In Vitro (FIV) și Medicină Reproductivă · Chirurgie Bariatrică și Metabolică · Implanturi Dentare și Chirurgie Maxilo-Facială · Transplant de Păr și Dermatologie Estetică (Română — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/fiv-et-medecine-de-la-reproduction.html": "FIV et médecine de la reproduction · Chirurgie bariatrique et métabolique · Implants dentaires et maxillo-facial · Greffe capillaire et dermatologie esthétique (Français — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/fiv-y-medicina-reproductiva-cirugia.html": "FIV y Medicina Reproductiva · Cirugía Bariátrica y Metabólica · Implantes Dentales y Maxilofacial · Trasplante Capilar y Dermatología (Español — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/fivet-icsi-e-medicina-della.html": "FIVET / ICSI e Medicina della Riproduzione · Chirurgia Bariatrica e Metabolica · Implantologia Dentale e Maxillo-Facciale · Trapianto Capelli e Dermatologia Estetica (Italiano — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/francais-les-20-interventions-et.html": "[Français] Les 20 interventions et forfaits (PROC-01 – PROC-20) — Treatment Cost Comparison",
+    "https://www.thesecretarybird.com/2026/11/francais-super-specialist-surgeons.html": "[Français] Super-Specialist Surgeons & Medical Specialties (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/full-face-fractional-co2-picosecond.html": "Full-Face Fractional CO2 / Picosecond Laser Resurfacing + Ultrasound SMAS Lifting and Exosomes: Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-central.html": "Fundación Santa Fe de Bogotá - Central University Hospital",
+    "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-instituto.html": "Fundación Santa Fe de Bogotá - Instituto de Cáncer Carlos Ardila Lülle",
+    "https://www.thesecretarybird.com/2026/11/fuwai-hospital-cams-international.html": "Fuwai Hospital CAMS",
+    "https://www.thesecretarybird.com/2026/11/galmee-doktoorota-ispeeshaalistii.html": "Galmee Doktoorota Ispeeshaalistii & Baqaqsanii Hodhuu | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/galmee-hospitaalota-jci-imala-yaalaa.html": "Galmee Hospitaalota JCI & Imala Yaalaa | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/gcc-and-arab-families-travelling-to.html": "GCC and Arab Families Travelling to Barcelona and Madrid: Schengen Medical Invitation Letters, Halal Suites and Top JCI Hospitals",
+    "https://www.thesecretarybird.com/2026/11/gcc-patients-travelling-to-bangkok-60.html": "GCC Patients Travelling to Bangkok: 60-Day Visa Exemption, Arabic Hospital Wings, Halal Kitchens and Companion Stays",
+    "https://www.thesecretarybird.com/2026/11/gharama-za-matibabu-na-vifurushi-vya.html": "Gharama za Matibabu na Vifurushi vya Upasuaji | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/gleneagles-hospital-kuala-lumpur.html": "Gleneagles Hospital Kuala Lumpur",
+    "https://www.thesecretarybird.com/2026/11/global-accredited-hospitals-and.html": "Global Accredited Hospitals and Recovery Stays Directory (32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html": "GNG Hospital Apgujeong",
+    "https://www.thesecretarybird.com/2026/11/gurugram-medical-tourism-hospital-hub.html": "Gurugram Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/hopital-universitaire-international.html": "Hôpital Universitaire International Cheikh Khalifa",
+    "https://www.thesecretarybird.com/2026/11/hopital-universitaire-international_01370343880.html": "Hôpital Universitaire International Cheikh Zaid",
+    "https://www.thesecretarybird.com/2026/11/hospital-angeles-tijuana-international.html": "Hospital Ángeles Tijuana",
+    "https://www.thesecretarybird.com/2026/11/hospital-cima-san-jose-international.html": "Hospital CIMA San José",
+    "https://www.thesecretarybird.com/2026/11/hospital-clinic-de-barcelona-global.html": "Hospital Clínic de Barcelona - Global Academic Titan",
+    "https://www.thesecretarybird.com/2026/11/hospital-clinica-biblica-sede-central.html": "Hospital Clínica Bíblica - Sede Central",
+    "https://www.thesecretarybird.com/2026/11/hospital-general-universitario-gregorio.html": "Hospital General Universitario Gregorio Marañón",
+    "https://www.thesecretarybird.com/2026/11/hospital-infantil-universitario-nino.html": "Hospital Infantil Universitario Niño Jesús",
+    "https://www.thesecretarybird.com/2026/11/how-jci-and-nabh-accreditations-work.html": "How JCI and NABH Accreditations Work: Standards and Patient Safety Demystified",
+    "https://www.thesecretarybird.com/2026/11/how-to-read-medical-travel-package.html": "How to Read a Medical Travel Package: Inclusions, Hidden Costs, and Recovery Realities",
+    "https://www.thesecretarybird.com/2026/11/hyderabad-jubilee-hills-gachibowli-and.html": "Hyderabad (Jubilee Hills, Gachibowli and HITEC City) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/hyderabad-jubilee-hills-gachibowli-and_01178518748.html": "دليل العلاج والمستشفيات المعتمدة في Hyderabad (Jubilee Hills, Gachibowli and HITEC City) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/in-vitro-ivf-i-medycyna-rozrodu.html": "In Vitro (IVF) i Medycyna Rozrodu · Chirurgia Bariatryczna i Metaboliczna · Implanty Stomatologiczne i Chirurgia Szczękowa · Przeszczep Włosów i Dermatologia Estetyczna (Polski — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi.html": "Indraprastha Apollo Hospitals New Delhi (JCI)",
+    "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi_02048666486.html": "Indraprastha Apollo Hospitals New Delhi (JCI)",
+    "https://www.thesecretarybird.com/2026/11/international-treatment-costs-and-all.html": "International Treatment Costs and All-Inclusive Surgical Packages (PROC-01 to PROC-20)",
+    "https://www.thesecretarybird.com/2026/11/isbitaallada-jci-safarka-caafimaadka.html": "Isbitaallada JCI & Safarka Caafimaadka | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/istanbul-medical-tourism-hospital-hub.html": "Istanbul Medical Tourism & Hospital Hub Guide",
+    "https://www.thesecretarybird.com/2026/11/italiano-chirurgo-responsabile.html": "[Italiano] Chirurgo responsabile & Specialità medica (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/italiano-tutti-i-20-interventi-e.html": "[Italiano] Tutti i 20 interventi e pacchetti (PROC-01 – PROC-20) — Fascia di prezzo pacchetto ospedaliero",
+    "https://www.thesecretarybird.com/2026/11/ivf-32-medical-corridors.html": "ЭКҰ (IVF) және репродуктивті медицина · Бариатриялық және метаболикалық хирургия · Тіс имплантациясы және жақ-бет хирургиясы · Шаш трансплантациясы және эстетикалық дерматология (Қазақ тілі — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/ivf-32-medical-corridors_01452773147.html": "আইভিএফ (IVF) ও প্রজনন চিকিৎসা · ব্যারিয়াট্রিক ও ওজন হ্রাস সার্জারি · ডেন্টাল ইমপ্ল্যান্ট ও ম্যাক্সিলোফেসিয়াল · হেয়ার ট্রান্সপ্ল্যান্ট ও চর্মরোগ (বাংলা — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/ivf-32-medical-corridors_0155723647.html": "आईवीएफ (IVF) एवं प्रजनन चिकित्सा · बेरिएट्रिक एवं मोटापा सर्जरी · डेंटल इम्प्लांट एवं मैक्सिलोफेशियल · हेयर ट्रांसप्लांट एवं त्वचा विज्ञान (हिन्दी — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/ivf-32-medical-corridors_0307829071.html": "体外受精 (IVF)・生殖医療 · 肥満・代謝外科手術 · 歯科インプラント・口腔外科 · 自毛植毛・美容皮膚科 (日本語 — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/ivf-32-medical-corridors_0770278424.html": "Ин витро (IVF) и репродуктивна медицина · Бариатрична и метаболитна хирургия · Зъбни импланти и лицево-челюстна хирургия · Присаждане на коса и естетична дерматология (Български — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/ivf-cycle-with-icsi-indicative-costs.html": "IVF cycle with ICSI — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/ivf-reproduktionsmedizin-adipositas.html": "IVF & Reproduktionsmedizin · Adipositas- & Stoffwechselchirurgie · Zahnimplantate & Kieferchirurgie · Haartransplantation & Dermatologie (Deutsch — 32 Medical Corridors)",
+    "https://www.thesecretarybird.com/2026/11/iye-owo-itoju-apo-ise-abe-secretarybird.html": "Iye Owó Ìtọ́jú & Àpò Iṣẹ́-Abẹ | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-accredited-hospitals-medical-travel.html": "JCI Accredited Hospitals & Medical Travel Directory | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs.html": "Кардиология и кардиохирургия · Онкология и роботическая хирургия · Ортопедия и эндопротезирование · Нейрохирургия и хирургия позвоночника (Русский — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs_01135915141.html": "হৃদরোগ ও কার্ডিয়াক সার্জারি · অনকোলজি ও রোবোটিক ক্যান্সার সার্জারি · অর্থোপেডিকস ও জয়েন্ট প্রতিস্থাপন · নিউরোসার্জারি ও স্পাইন সার্জারি (বাংলা — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs_01314045293.html": "循環器内科・心臓血管外科 · 腫瘍科・ロボットがん手術 · 整形外科・人工関節置換術 · 脳神経外科・脊椎外科 (日本語 — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs_01379103023.html": "हृदय रोग एवं कार्डियक सर्जरी · कैंसर एवं रोबोटिक ऑन्कोलॉजी सर्जरी · हड्डी रोग एवं जोड़ प्रत्यारोपण · न्यूरोसर्जरी एवं स्पाइन सर्जरी (हिन्दी — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs_02011957986.html": "Кардиология и кардиохирургия · Онкология и роботизирана хирургия на рак · Ортопедия и ендопротезиране на стави · Неврохирургия и гръбначна хирургия (Български — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs_0241789557.html": "Кардіологія та кардіохірургія · Онкологія та роботизована хірургія раку · Ортопедія та ендопротезування суглобів · Нейрохірургія та хірургія хребта (Українська — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-hospitals-costs_0465061159.html": "Кардиология және кардиохирургия · Онкология және роботтық обыр хирургиясы · Ортопедия және буын эндопротездеу · Нейрохирургия және омыртқа хирургиясы (Қазақ тілі — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/jci-nabh.html": "كيف تعمل اعتمادات JCI وNABH الدولية: معايير سلامة المريض المعتمدة",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird.html": "JCI እውቅና ያላቸው ሆስፒታሎች እና የሕክምና ጉዞ | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird_01037947188.html": "JCI অনুমোদিত হাসপাতাল ও মেডিকেল ভিসা নির্দেশিকা | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird_0109818709.html": "ڕێبەری نەخۆشخانە جیهانییەکانی JCI و گەشتی پزیشکی | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird_01793736943.html": "دليل المستشفيات المعتمدة JCI والسفر العلاجي | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird_02030709273.html": "Каталог клиник JCI и медицинский туризм за рубежом | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird_0663145106.html": "JCI ኣፍልጦ ዘለዎም ሆስፒታላትን ሕክምናዊ መገሻን | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jci-secretarybird_0775943533.html": "راهنمای بیمارستان‌های معتبر JCI و گردشگری سلامت | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jerin-asibitocin-jci-tafiyar-jinya.html": "Jerin Asibitocin JCI & Tafiyar Jinya | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital.html": "JK Plastic Surgery Hospital",
+    "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital_01082115315.html": "JK Plastic Surgery Hospital",
+    "https://www.thesecretarybird.com/2026/11/kardiologi-bedah-jantung-onkologi-bedah.html": "Kardiologi & Bedah Jantung · Onkologi & Bedah Kanker Robotik · Ortopedi & Penggantian Sendi · Bedah Saraf & Tulang Belakang (Bahasa Indonesia — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/kardiologia-i-kardiochirurgia-onkologia.html": "Kardiologia i Kardiochirurgia · Onkologia i Robotyczna Chirurgia Nowotworów · Ortopedia i Endoprotezoplastyka Stawów · Neurochirurgia i Chirurgia Kręgosłupa (Polski — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/kardiologie-herzchirurgie-onkologie.html": "Kardiologie & Herzchirurgie · Onkologie & Roboterchirurgie · Orthopädie & Gelenkersatz · Neurochirurgie & Wirbelsäule (Deutsch — JCI Hospitals & Costs)",
+    "https://www.thesecretarybird.com/2026/11/kbc-zagreb-draskoviceva-traumatology.html": "KBC Zagreb - Draskoviceva Traumatology Campus",
+    "https://www.thesecretarybird.com/2026/11/kbc-zagreb-salata-campus-international.html": "KBC Zagreb - Salata Campus",
+    "https://www.thesecretarybird.com/2026/11/king-faisal-specialist-hospital.html": "King Faisal Specialist Hospital & Research Centre Riyadh",
+    "https://www.thesecretarybird.com/2026/11/king-hamad-university-hospital.html": "King Hamad University Hospital",
+    "https://www.thesecretarybird.com/2026/11/king-hussein-cancer-center.html": "King Hussein Cancer Center",
+    "https://www.thesecretarybird.com/2026/11/kochi-and-kerala-medical-corridor.html": "Kochi and Kerala Medical Corridor Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/kochi-and-kerala-medical-corridor_0550484399.html": "دليل العلاج والمستشفيات المعتمدة في Kochi and Kerala Medical Corridor Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/kuala-lumpur-ampang-bangsar-and-bukit.html": "Kuala Lumpur (Ampang, Bangsar and Bukit Bintang) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/kuala-lumpur-ampang-bangsar-and-bukit_089057232.html": "دليل العلاج والمستشفيات المعتمدة في Kuala Lumpur (Ampang, Bangsar and Bukit Bintang) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/laparoscopic-roux-en-y-gastric-bypass.html": "Laparoscopic Roux-en-Y Gastric Bypass (RYGB) / Mini-Gastric Bypass (OAGB): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/laparoscopic-vertical-sleeve.html": "Laparoscopic Vertical Sleeve Gastrectomy (LSG - Tri-Staple Technology): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/living-donor-kidney-transplant-across.html": "Living-donor kidney transplant across 32 accredited destinations: HLA matching, legal rules & stay",
+    "https://www.thesecretarybird.com/2026/11/living-donor-liver-transplant-across-32.html": "Living-donor liver transplant across 32 accredited destinations: legal rules, stay & cost scope",
+    "https://www.thesecretarybird.com/2026/11/madrid-castellana-pozuelo-and-salamanca.html": "Madrid (Castellana, Pozuelo and Salamanca) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/madrid-castellana-pozuelo-and-salamanca_01568008275.html": "دليل العلاج والمستشفيات المعتمدة في Madrid (Castellana, Pozuelo and Salamanca) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/manyan-likitoci-kwararru-likitocin-fida.html": "Manyan Likitoci Kwararru & Likitocin Fida | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/max-super-speciality-hospital-saket-jci.html": "Max Super Speciality Hospital Saket (JCI)",
+    "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html": "Medanta — The Medicity (Gurugram, INDIA)",
+    "https://www.thesecretarybird.com/2026/11/medanta-medicity.html": "ميدانتا – ذا ميديسيتي (Medanta — The Medicity) (غوروغرام) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/medica-sur-international-patient-desk.html": "Médica Sur",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-bahrain-accredited.html": "Medical Tourism in Bahrain",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-belarus-accredited.html": "Medical Tourism in Belarus",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html": "Medical Tourism in China",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html": "Medical Tourism in Colombia",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-costa-rica.html": "Medical Tourism in Costa Rica",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html": "Medical Tourism in Croatia",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-cyprus-accredited.html": "Medical Tourism in Cyprus",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-denmark-accredited.html": "Medical Tourism in Denmark",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-dominican-republic.html": "Medical Tourism in Dominican Republic",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-egypt-accredited.html": "Medical Tourism in Egypt",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html": "Medical Tourism in Gangnam Medical District (Seoul)",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html": "Medical Tourism in Germany",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html": "Medical Tourism in India",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-jordan-accredited.html": "Medical Tourism in Jordan",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-kuwait-accredited.html": "Medical Tourism in Kuwait",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-malaysia-accredited.html": "Medical Tourism in Malaysia",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html": "Medical Tourism in Medellín Medical Corridor (Colombia)",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html": "Medical Tourism in Mexico",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-morocco-accredited.html": "Medical Tourism in Morocco",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-oman-accredited.html": "Medical Tourism in Oman",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-russia-accredited.html": "Medical Tourism in Russia",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-saudi-arabia.html": "Medical Tourism in Saudi Arabia",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-singapore-accredited.html": "Medical Tourism in Singapore",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-africa.html": "Medical Tourism in South Africa",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html": "Medical Tourism in South Korea",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html": "Medical Tourism in Spain",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html": "Medical Tourism in Thailand",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html": "Medical Tourism in Tijuana and Baja Corridor (Mexico)",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tunisia-accredited.html": "Medical Tourism in Tunisia",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-turkiye-accredited.html": "Medical Tourism in Türkiye",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html": "Medical Tourism in United Arab Emirates",
+    "https://www.thesecretarybird.com/2026/11/medical-tourism-in-vietnam-accredited.html": "Medical Tourism in Vietnam",
+    "https://www.thesecretarybird.com/2026/11/medical-visa-and-hospital-invitation.html": "Medical visa and hospital invitation guide across 32 destinations (India, Germany, Turkey, Thailand & MENA)",
+    "https://www.thesecretarybird.com/2026/11/medical-visa-regulations-update-new-digital-proces.html": "Medical Visa Regulations Update: New Digital Processing Timelines for Gulf Patients",
+    "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html": "Memorial Bahçelievler (Istanbul, TURKEY)",
+    "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html": "مستشفى ميموريال باهتشلي إيفلر (Memorial Bahçelievler) (إسطنبول) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/minsk-scientific-practical-center-for.html": "Minsk Scientific-Practical Center for Surgery, Transplantology and Hematology (MNPMC)",
+    "https://www.thesecretarybird.com/2026/11/mitral-valve-replacement-indicative.html": "Mitral valve replacement — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/mount-elizabeth-hospital-orchard.html": "Mount Elizabeth Hospital Orchard",
+    "https://www.thesecretarybird.com/2026/11/mount-elizabeth-novena-hospital.html": "Mount Elizabeth Novena Hospital",
+    "https://www.thesecretarybird.com/2026/11/mumbai-parel-bandra-and-andheri-medical.html": "Mumbai (Parel, Bandra and Andheri) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/mumbai-parel-bandra-and-andheri-medical_01455801986.html": "دليل العلاج والمستشفيات المعتمدة في Mumbai (Parel, Bandra and Andheri) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/muscat-private-hospital-international.html": "Muscat Private Hospital",
+    "https://www.thesecretarybird.com/2026/11/narayana-health-city-bengaluru-india.html": "Narayana Health City (Bengaluru, INDIA)",
+    "https://www.thesecretarybird.com/2026/11/narayana-health-city.html": "مدينة نارايانا الصحية (Narayana Health City) (بنغالورو) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/national-medical-research-center-of.html": "National Medical Research Center of Cardiology named after E.I. Chazov",
+    "https://www.thesecretarybird.com/2026/11/ndeputa-ndi-dokita-okachamara-ndi-iwa.html": "Ndepụta Ndị Dọkịta Ọkachamara & Ndị Ịwa Ahụ | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/ndeputa-ulo-ogwu-jci-njem-ahuike.html": "Ndepụta Ụlọ Ọgwụ JCI & Njem Ahụike | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html": "New Delhi (Saket, Sarita Vihar and Dwarka) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka_0797787931.html": "دليل العلاج والمستشفيات المعتمدة في New Delhi (Saket, Sarita Vihar and Dwarka) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/nn-aleksandrov-republican-scientific.html": "N.N. Aleksandrov Republican Scientific and Practical Center of Oncology and Medical Radiology",
+    "https://www.thesecretarybird.com/2026/11/onu-ego-ogwugwo-ngwugwu-iwa-ahu.html": "Ọnụ Ego Ọgwụgwọ & Ngwugwu Ịwa Ahụ | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/orodha-ya-hospitali-za-jci-safari-za.html": "Orodha ya Hospitali za JCI & Safari za Matibabu | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/orodha-ya-madaktari-bingwa-na-wapasuaji.html": "Orodha ya Madaktari Bingwa na Wapasuaji | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/pantai-hospital-kuala-lumpur.html": "Pantai Hospital Kuala Lumpur",
+    "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital.html": "Peking Union Medical College Hospital (Beijing, CHINA)",
+    "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_01205768358.html": "Peking Union Medical College Hospital (PUMCH)",
+    "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_0512443781.html": "مستشفى كلية اتحاد بكين الطبية (Peking Union Medical College Hospital) (بكين) — الدليل والملف الطبي المعتمد",
+    "https://www.thesecretarybird.com/2026/11/polski-gowny-chirurg-specjalizacja.html": "[Polski] Główny chirurg & Specjalizacja medyczna (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/polski-wszystkie-20-zabiegow-i-pakietow.html": "[Polski] Wszystkie 20 zabiegów i pakietów (PROC-01 – PROC-20) — Orientacyjny koszt pakietu szpitalnego",
+    "https://www.thesecretarybird.com/2026/11/portugues-cirurgiao-principal.html": "[Português] Cirurgião Principal & Especialidade Médica (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/portugues-todos-os-20-procedimentos-e.html": "[Português] Todos os 20 procedimentos e pacotes (PROC-01 – PROC-20) — Faixa Estimada do Pacote Hospitalar",
+    "https://www.thesecretarybird.com/2026/11/post-surgery-length-of-stay-and-fit-to.html": "Post-surgery length of stay and Fit-to-Fly timetable across 32 medical destinations",
+    "https://www.thesecretarybird.com/2026/11/prix-des-operations-forfaits.html": "Prix des Opérations & Forfaits Chirurgicaux | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/proc-01-proc-20.html": "[বাংলা] সকল ২০টি অস্ত্রোপচার ও প্যাকেজ (PROC-01 – PROC-20) — হাসপাতাল প্যাকেজের আনুমানিক খরচ",
+    "https://www.thesecretarybird.com/2026/11/qiimaha-daaweynta-xirmooyinka-qalliinka.html": "Qiimaha Daaweynta & Xirmooyinka Qalliinka | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/relex-smile-pro-femto-lasik-bilateral.html": "ReLEx SMILE Pro / Femto-LASIK Bilateral Laser Vision Correction: Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/rigshospitalet-blegdamsvej-quaternary.html": "Rigshospitalet - Blegdamsvej Quaternary Campus",
+    "https://www.thesecretarybird.com/2026/11/rigshospitalet-finsen-center-for-cancer.html": "Rigshospitalet - Finsen Center for Cancer and Organ Diseases",
+    "https://www.thesecretarybird.com/2026/11/robotic-endoscopic-transforaminal.html": "Robotic / Endoscopic Transforaminal Lumbar Interbody Fusion (MIS-TLIF): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/robotic-laparoscopic.html": "Robotic / Laparoscopic Pancreaticoduodenectomy (Whipple Procedure): Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/2026/11/robotic-radical-prostatectomy.html": "Robotic radical prostatectomy — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/romana-chirurg-principal-specialitate.html": "[Română] Chirurg principal & Specialitate medicală (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/romana-toate-cele-20-de-proceduri-si.html": "[Română] Toate cele 20 de proceduri și pachete (PROC-01 – PROC-20) — Cost estimat pachet spitalicesc",
+    "https://www.thesecretarybird.com/2026/11/royale-hayat-hospital-international.html": "Royale Hayat Hospital",
+    "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html": "Samsung Medical Center",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-32-jci.html": "SecretaryBird — Қазақ тілі: Шетелде емделу: 32 елдегі JCI аккредиттелген ауруханалар, дәрігерлер және бағалар",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-32-jci_0684740717.html": "SecretaryBird — हिन्दी: अंतर्राष्ट्रीय मेडिकल टूरिज्म: 32 देशों में JCI मान्यता प्राप्त अस्पताल, डॉक्टर और सर्जरी खर्च",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-bahasa-indonesia-wisata.html": "SecretaryBird — Bahasa Indonesia: Wisata Medis Internasional: Rumah Sakit Terakreditasi JCI, Dokter Spesialis & Biaya di 32 Negara",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-deutsch-medizintourismus.html": "SecretaryBird — Deutsch: Medizintourismus & JCI-akkreditierte Kliniken, Spezialisten & OP-Kosten in 32 Ländern",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-espanol-turismo-medico.html": "SecretaryBird — Español: Turismo Médico Internacional: Hospitales Acreditados JCI, Médicos y Precios en 32 Países",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-francais-tourisme-medical.html": "SecretaryBird — Français: Tourisme Médical International : Hôpitaux Accrédités JCI, Chirurgiens et Tarifs dans 32 Pays",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-italiano-turismo-medico.html": "SecretaryBird — Italiano: Turismo Medico Internazionale: Ospedali Accreditati JCI, Chirurghi e Costi in 32 Paesi",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-jci-32.html": "SecretaryBird — Русский: Лечение за рубежом: Аккредитованные клиники JCI, врачи и цены в 32 странах",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-jci-32_094510839.html": "SecretaryBird — Български: Лечение в чужбина: Акредитирани болници JCI, лекари и цени в 32 държави",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-jci-32_0960951504.html": "SecretaryBird — Українська: Лікування за кордоном: Акредитовані клініки JCI, лікарі та ціни у 32 країнах",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-jci.html": "SecretaryBird — বাংলা: আন্তর্জাতিক মেডিকেল ট্যুরিজম: ৩২টি দেশে JCI অনুমোদিত হাসপাতাল, বিশেষজ্ঞ ডাক্তার ও চিকিৎসার খরচ",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-jci32.html": "SecretaryBird — 日本語: 海外医療ツーリズム・JCI認定病院・専門医・手術費用比較（世界32カ国）",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-polski-turystyka-medyczna.html": "SecretaryBird — Polski: Turystyka Medyczna: Akredytowane Szpitale JCI, Lekarze i Ceny Zabiegów w 32 Krajach",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-portugues-turismo-medico.html": "SecretaryBird — Português: Turismo Médico Internacional: Hospitais Acreditados JCI, Médicos e Preços em 32 Países",
+    "https://www.thesecretarybird.com/2026/11/secretarybird-romana-turism-medical.html": "SecretaryBird — Română: Turism Medical Internațional: Spitale Acreditate JCI, Medici și Prețuri în 32 de Țări",
+    "https://www.thesecretarybird.com/2026/11/secretarybird.html": "የሕክምና ወጪዎች እና የቀዶ ጥገና ጥቅሎች | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_01156505557.html": "راهنمای برترین پزشکان فوق‌تخصص و جراحان | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_01377913348.html": "ڕێبەری باشترین پزیشکە پسپۆڕەکان و نەشتەرگەران | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_01432731256.html": "Стоимость лечения и пакеты операций за рубежом | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_01676818460.html": "ዝርዝር ብሉጻት ስፔሻሊስት ዶክተራትን መጥባሕተኛታትን | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_01808740456.html": "هزینه جراحی و پکیج‌های درمانی بین‌المللی | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_01953198702.html": "Лучшие врачи-хирурги и профессора мира | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_02116638316.html": "সেরা বিশেষজ্ঞ ডাক্তার ও সার্জনদের তালিকা | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_0268429946.html": "تكلفة العلاج والعمليات الجراحية الشاملة | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_0400139875.html": "ዋጋ ሕክምናን ናይ መጥባሕቲ ፓኬጃትን | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_0533583624.html": "تێچووی چارەسەر و پاکێجەکانی نەشتەرگەری | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_0882630290.html": "دليل أفضل الأطباء والجراحين العالميين | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/secretarybird_0945259258.html": "ምርጥ ስፔሻሊስት ዶክተሮች እና የቀዶ ጥገና ሐኪሞች | SecretaryBird",
+    "https://www.thesecretarybird.com/2026/11/shanghai-pudong-and-xuhui-academic-hub.html": "Shanghai (Pudong and Xuhui Academic Hub) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/shanghai-pudong-and-xuhui-academic-hub_0687606626.html": "دليل العلاج والمستشفيات المعتمدة في Shanghai (Pudong and Xuhui Academic Hub) Medical Tourism Hub",
+    "https://www.thesecretarybird.com/2026/11/sheikh-shakhbout-medical-city.html": "Sheikh Shakhbout Medical City",
+    "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital.html": "SIMNSA Health Plan Hospital (Hospital Blue)",
+    "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital_0647999107.html": "SIMNSA Health Plan Hospital (Hospital Blue)",
+    "https://www.thesecretarybird.com/2026/11/specialty-320-doctors-32-countries.html": "[हिन्दी] प्रमुख सर्जन & चिकित्सा विशेषता (Specialty) (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/spinal-fusion-one-to-two-levels.html": "Spinal fusion (one to two levels) — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/super-specialist-surgeons-and.html": "Super-Specialist Surgeons and International Doctors Directory",
+    "https://www.thesecretarybird.com/2026/11/super-specialist-surgeons-medical.html": "[Русский] Super-Specialist Surgeons & Medical Specialties (320 Doctors · 32 Countries)",
+    "https://www.thesecretarybird.com/2026/11/total-hip-replacement-indicative-costs.html": "Total hip replacement — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/total-knee-replacement-indicative-costs.html": "Total knee replacement — Indicative Costs, Recovery & Hospital Guide",
+    "https://www.thesecretarybird.com/2026/11/travelling-from-iraq-to-india-for.html": "Travelling from Iraq to India for Complex Surgery: Hospital Invitations & Care Protocol",
+    "https://www.thesecretarybird.com/2026/11/travelling-from-nigeria-kenya-and.html": "Travelling from Nigeria, Kenya and Tanzania to India for Cardiac, Oncology and Transplant Surgery: e-Medical Visa (M-Visa) and MX Escort Rules",
+    "https://www.thesecretarybird.com/2026/11/travelling-from-nigeria-kenya-and_0652603347.html": "دليل السفر العلاجي والتأشيرة الطبية: Travelling from Nigeria, Kenya and Tanzania to India for Cardiac, Oncology and Transplant Surgery",
+    "https://www.thesecretarybird.com/2026/11/travelling-from-oman-to-india-for.html": "Travelling from Oman to India for Medical Care: Complete Route & Visa Checklist",
+    "https://www.thesecretarybird.com/2026/11/travelling-from-us-and-canada-to_3.html": "Travelling from the US and Canada to Medellín for Plastic, Orthopedic and Dental Care: Check-Mig, MDE Transfers and El Poblado Recovery",
+    "https://www.thesecretarybird.com/2026/11/travelling-from-us-and-canada-to_5.html": "Travelling from the US and Canada to Tijuana for Bariatric and Dental Surgery: SAN Airport Shuttle and FastLane Medical Pass",
+    "https://www.thesecretarybird.com/2026/11/uk-and-european-patients-travelling-to.html": "UK and European Patients Travelling to Croatia and Türkiye for Full-Arch Dental Implants and Robotic Joint Surgery: Flight, Warranty and Recovery Guide",
+    "https://www.thesecretarybird.com/2026/11/ultrasonic-piezo-preservation.html": "Ultrasonic Piezo Preservation Rhinoplasty and Septorhinoplasty: Overseas Package Costs, Inclusions, Exclusions and Fit-to-Fly Timeline",
+    "https://www.thesecretarybird.com/p/about-secretarybird.html": "About SecretaryBird",
+    "https://www.thesecretarybird.com/p/cardiac-surgery-and-structural-heart.html": "Cardiac surgery and structural heart care",
+    "https://www.thesecretarybird.com/p/doctors-directory.html": "Super-Specialist Doctors & Global Surgeons Directory | SecretaryBird",
+    "https://www.thesecretarybird.com/p/fertility-and-ivf-care-across-regulated.html": "Fertility and IVF care across regulated destinations",
+    "https://www.thesecretarybird.com/p/hospital-partnerships.html": "Hospital Partnerships & International Desks | SecretaryBird",
+    "https://www.thesecretarybird.com/p/hospitals-directory.html": "JCI Accredited Hospitals & Recovery Stays Directory | SecretaryBird",
+    "https://www.thesecretarybird.com/p/how-we-vet-hospitals-and-our-pricing.html": "How we vet hospitals and our pricing policy",
+    "https://www.thesecretarybird.com/p/neurosurgery-and-deep-brain-stimulation.html": "Neurosurgery and deep brain stimulation",
+    "https://www.thesecretarybird.com/p/oncology-and-multidisciplinary-cancer.html": "Oncology and multidisciplinary cancer care",
+    "https://www.thesecretarybird.com/p/organ-transplant-across-32-destinations.html": "Organ transplant across 32 destinations",
+    "https://www.thesecretarybird.com/p/orthopedic-joint-replacement-and-spine.html": "Orthopedic joint replacement and spine surgery",
+    "https://www.thesecretarybird.com/p/privacy-policy.html": "Privacy policy",
+    "https://www.thesecretarybird.com/p/secretarybird-ai-summary.html": "SecretaryBird AI Summary",
+    "https://www.thesecretarybird.com/p/terms-of-service.html": "Terms of service",
+    "https://www.thesecretarybird.com/p/treatment-costs.html": "Medical Treatment Costs & Surgical Packages 2026 | SecretaryBird",
+    "https://www.thesecretarybird.com/p/trust-and-standards.html": "JCI Clinical Governance & Verification Standards | SecretaryBird"
+  },
   "pages": {
     "https://www.thesecretarybird.com/2024/11/cl%C3%ADnica-medell%C3%ADn---sede-el-poblado.html": {
+      "title": "Clínica Medellín - Sede El Poblado",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "city_hub_title": "Medical Tourism in Medellín Medical Corridor (Colombia)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "country_hub_title": "Medical Tourism in Colombia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html"
+      ]
     },
     "https://www.thesecretarybird.com/2024/11/jk-plastic-surgery-hospital.html": {
+      "title": "JK Plastic Surgery Hospital",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "city_hub_title": "Medical Tourism in Gangnam Medical District (Seoul)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "country_hub_title": "Medical Tourism in South Korea",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html",
+        "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html",
+        "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2024/11/simnsa-health-plan-hospital-hospital-blu.html": {
+      "title": "SIMNSA Health Plan Hospital (Hospital Blue)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "city_hub_title": "Medical Tourism in Tijuana and Baja Corridor (Mexico)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "country_hub_title": "Medical Tourism in Mexico",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-angeles-tijuana-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/abdali-medical-center-international.html": {
+      "title": "Abdali Medical Center",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-jordan-accredited.html",
+      "country_hub_title": "Medical Tourism in Jordan",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/king-hussein-cancer-center.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html": {
+      "title": "Anadolu Medical Center (Istanbul, TURKEY)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/istanbul-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Istanbul Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-turkiye-accredited.html",
+      "country_hub_title": "Medical Tourism in Türkiye",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html"
       ],
       "same_city_hospitals": [
-        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html",
-        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html"
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html"
       ]
     },
     "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html": {
+      "title": "مركز أنادولو الطبي (Anadolu Medical Center) (إسطنبول) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_669.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في إسطنبول",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_424.html",
+      "country_hub_title": "دليل السفر العلاجي إلى تركيا — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html"
       ],
       "same_city_hospitals": [
-        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html",
-        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html"
+        "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html"
       ]
     },
     "https://www.thesecretarybird.com/2026/11/apollo-proton-cancer-centre-apcc.html": {
+      "title": "Apollo Proton Cancer Centre (APCC) Chennai (JCI - South Asia's First Proton Center)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/chennai-greams-road-and-omr-proton.html",
+      "city_hub_title": "Chennai (Greams Road and OMR Proton Corridor) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "country_hub_title": "Medical Tourism in India",
       "translations": [],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/archbishop-makarios-iii-hospital.html": {
+      "title": "Archbishop Makarios III Hospital (Makario)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-cyprus-accredited.html",
+      "country_hub_title": "Medical Tourism in Cyprus",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/aretaeio-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/aretaeio-medical-center-international.html": {
+      "title": "Aretaeio Medical Center",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-cyprus-accredited.html",
+      "country_hub_title": "Medical Tourism in Cyprus",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/archbishop-makarios-iii-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-maadi.html": {
+      "title": "As-Salam International Hospital Maadi",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-egypt-accredited.html",
+      "country_hub_title": "Medical Tourism in Egypt",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-new.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-new.html": {
+      "title": "As-Salam International Hospital New Cairo",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-egypt-accredited.html",
+      "country_hub_title": "Medical Tourism in Egypt",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/as-salam-international-hospital-maadi.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html": {
+      "title": "Asan Medical Center",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "city_hub_title": "Medical Tourism in Gangnam Medical District (Seoul)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "country_hub_title": "Medical Tourism in South Korea",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html",
+        "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital.html",
+        "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/aster-royal-hospital-al-ghubra.html": {
+      "title": "Aster Royal Hospital Al Ghubra",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-oman-accredited.html",
+      "country_hub_title": "Medical Tourism in Oman",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/muscat-private-hospital-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/bahrain-specialist-hospital.html": {
+      "title": "Bahrain Specialist Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-bahrain-accredited.html",
+      "country_hub_title": "Medical Tourism in Bahrain",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/king-hamad-university-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/bangkok-hospital-headquarter.html": {
+      "title": "Bangkok Hospital Headquarter",
       "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Bangkok Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
+      "country_hub_title": "Medical Tourism in Thailand",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html": {
+      "title": "Bumrungrad International Hospital (Bangkok, THAILAND)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Bangkok Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
+      "country_hub_title": "Medical Tourism in Thailand",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bangkok-hospital-headquarter.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_02095926583.html": {
+      "title": "Bumrungrad International Hospital",
       "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Bangkok Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
+      "country_hub_title": "Medical Tourism in Thailand",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bangkok-hospital-headquarter.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html": {
+      "title": "مستشفى بومرونغراد الدولي (Bumrungrad International Hospital) (بانكوك) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_585.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في بانكوك",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_45.html",
+      "country_hub_title": "دليل السفر العلاجي إلى تايلاند — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bangkok-hospital-headquarter.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/burdenko-national-medical-research.html": {
+      "title": "Burdenko National Medical Research Center for Neurosurgery",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-russia-accredited.html",
+      "country_hub_title": "Medical Tourism in Russia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/national-medical-research-center-of.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/cedimat-centro-cardiovascular.html": {
+      "title": "CEDIMAT - Centro Cardiovascular",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-dominican-republic.html",
+      "country_hub_title": "Medical Tourism in Dominican Republic",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/cedimat-centro-de-diagnostico-medicina.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/cedimat-centro-de-diagnostico-medicina.html": {
+      "title": "CEDIMAT - Centro de Diagnóstico, Medicina Avanzada y Telemedicina",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-dominican-republic.html",
+      "country_hub_title": "Medical Tourism in Dominican Republic",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/cedimat-centro-cardiovascular.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/centro-medico-abc-campus-observatorio.html": {
+      "title": "Centro Médico ABC - Campus Observatorio",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "country_hub_title": "Medical Tourism in Mexico",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/medica-sur-international-patient-desk.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/charite-campus-benjamin-franklin.html": {
+      "title": "Charité Campus Benjamin Franklin",
       "city_hub": "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Berlin Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html",
+      "country_hub_title": "Medical Tourism in Germany",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin.html": {
+      "title": "Charité — Universitätsmedizin Berlin (Berlin, GERMANY)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Berlin Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html",
+      "country_hub_title": "Medical Tourism in Germany",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_01747796383.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/charite-campus-benjamin-franklin.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_01747796383.html": {
+      "title": "مستشفى شاريتيه الجامعي في برلين (Charité — Universitätsmedizin Berlin) (برلين) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_402.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في برلين",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_978.html",
+      "country_hub_title": "دليل السفر العلاجي إلى ألمانيا — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/charite-campus-benjamin-franklin.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/charite-universitatsmedizin-berlin_0303435685.html": {
+      "title": "Charité - Universitätsmedizin Berlin",
       "city_hub": "https://www.thesecretarybird.com/2026/11/berlin-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Berlin Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-germany-accredited.html",
+      "country_hub_title": "Medical Tourism in Germany",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/charite-campus-benjamin-franklin.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html": {
+      "title": "Cleveland Clinic Abu Dhabi (Abu Dhabi, UAE)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Abu Dhabi Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
+      "country_hub_title": "Medical Tourism in United Arab Emirates",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/sheikh-shakhbout-medical-city.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html": {
+      "title": "كليفلاند كلينك أبوظبي (Cleveland Clinic Abu Dhabi) (أبوظبي) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_868.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في أبوظبي",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_462.html",
+      "country_hub_title": "دليل السفر العلاجي إلى الإمارات العربية المتحدة — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/sheikh-shakhbout-medical-city.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi_0692631550.html": {
+      "title": "Cleveland Clinic Abu Dhabi",
       "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Abu Dhabi Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
+      "country_hub_title": "Medical Tourism in United Arab Emirates",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/sheikh-shakhbout-medical-city.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html": {
+      "title": "Clínica Las Vegas",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "city_hub_title": "Medical Tourism in Medellín Medical Corridor (Colombia)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "country_hub_title": "Medical Tourism in Colombia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado.html": {
+      "title": "Clínica Medellín - Sede El Poblado",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "city_hub_title": "Medical Tourism in Medellín Medical Corridor (Colombia)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "country_hub_title": "Medical Tourism in Colombia",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01485145713.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01286074198.html": {
+      "title": "Clínica Medellín - Sede El Poblado",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-medellin-medical.html",
+      "city_hub_title": "Medical Tourism in Medellín Medical Corridor (Colombia)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "country_hub_title": "Medical Tourism in Colombia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado_01485145713.html": {
+      "title": "ملف Clínica Medellín - Sede El Poblado",
       "city_hub": "https://www.thesecretarybird.com/2026/11/_04.html",
+      "city_hub_title": "دليل العلاج والسياحة الطبية في ميديلين الطبية (كولومبيا)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/_0.html",
+      "country_hub_title": "دليل العلاج والسياحة الطبية في كولومبيا",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/clinica-medellin-sede-el-poblado.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/clinica-las-vegas-international-patient.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/dar-al-shifa-hospital-international.html": {
+      "title": "Dar Al Shifa Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-kuwait-accredited.html",
+      "country_hub_title": "Medical Tourism in Kuwait",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/royale-hayat-hospital-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/dr-sulaiman-al-habib-hospital-al-olaya.html": {
+      "title": "Dr. Sulaiman Al Habib Hospital Al Olaya",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-saudi-arabia.html",
+      "country_hub_title": "Medical Tourism in Saudi Arabia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/king-faisal-specialist-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-central.html": {
+      "title": "Fundación Santa Fe de Bogotá - Central University Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "country_hub_title": "Medical Tourism in Colombia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-instituto.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-instituto.html": {
+      "title": "Fundación Santa Fe de Bogotá - Instituto de Cáncer Carlos Ardila Lülle",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-colombia-accredited.html",
+      "country_hub_title": "Medical Tourism in Colombia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/fundacion-santa-fe-de-bogota-central.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/fuwai-hospital-cams-international.html": {
+      "title": "Fuwai Hospital CAMS",
       "city_hub": "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Beijing Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html",
+      "country_hub_title": "Medical Tourism in China",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/gleneagles-hospital-kuala-lumpur.html": {
+      "title": "Gleneagles Hospital Kuala Lumpur",
       "city_hub": "https://www.thesecretarybird.com/2026/11/kuala-lumpur-ampang-bangsar-and-bukit.html",
+      "city_hub_title": "Kuala Lumpur (Ampang, Bangsar and Bukit Bintang) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-malaysia-accredited.html",
+      "country_hub_title": "Medical Tourism in Malaysia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/pantai-hospital-kuala-lumpur.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html": {
+      "title": "GNG Hospital Apgujeong",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "city_hub_title": "Medical Tourism in Gangnam Medical District (Seoul)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "country_hub_title": "Medical Tourism in South Korea",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html",
+        "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital.html",
+        "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/hopital-universitaire-international.html": {
+      "title": "Hôpital Universitaire International Cheikh Khalifa",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-morocco-accredited.html",
+      "country_hub_title": "Medical Tourism in Morocco",
       "translations": [],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/hopital-universitaire-international_01370343880.html": {
+      "title": "Hôpital Universitaire International Cheikh Zaid",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-morocco-accredited.html",
+      "country_hub_title": "Medical Tourism in Morocco",
       "translations": [],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/hospital-angeles-tijuana-international.html": {
+      "title": "Hospital Ángeles Tijuana",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "city_hub_title": "Medical Tourism in Tijuana and Baja Corridor (Mexico)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "country_hub_title": "Medical Tourism in Mexico",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/hospital-cima-san-jose-international.html": {
+      "title": "Hospital CIMA San José",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-costa-rica.html",
+      "country_hub_title": "Medical Tourism in Costa Rica",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-clinica-biblica-sede-central.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/hospital-clinic-de-barcelona-global.html": {
+      "title": "Hospital Clínic de Barcelona - Global Academic Titan",
       "city_hub": "https://www.thesecretarybird.com/2026/11/barcelona-eixample-and-sarria-sant.html",
+      "city_hub_title": "Barcelona (Eixample and Sarrià-Sant Gervasi) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html",
+      "country_hub_title": "Medical Tourism in Spain",
       "translations": [],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/hospital-clinica-biblica-sede-central.html": {
+      "title": "Hospital Clínica Bíblica - Sede Central",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-costa-rica.html",
+      "country_hub_title": "Medical Tourism in Costa Rica",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-cima-san-jose-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/hospital-general-universitario-gregorio.html": {
+      "title": "Hospital General Universitario Gregorio Marañón",
       "city_hub": "https://www.thesecretarybird.com/2026/11/madrid-castellana-pozuelo-and-salamanca.html",
+      "city_hub_title": "Madrid (Castellana, Pozuelo and Salamanca) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html",
+      "country_hub_title": "Medical Tourism in Spain",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-infantil-universitario-nino.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/hospital-infantil-universitario-nino.html": {
+      "title": "Hospital Infantil Universitario Niño Jesús",
       "city_hub": "https://www.thesecretarybird.com/2026/11/madrid-castellana-pozuelo-and-salamanca.html",
+      "city_hub_title": "Madrid (Castellana, Pozuelo and Salamanca) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-spain-accredited.html",
+      "country_hub_title": "Medical Tourism in Spain",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-general-universitario-gregorio.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi.html": {
+      "title": "Indraprastha Apollo Hospitals New Delhi (JCI)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html",
+      "city_hub_title": "New Delhi (Saket, Sarita Vihar and Dwarka) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "country_hub_title": "Medical Tourism in India",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/max-super-speciality-hospital-saket-jci.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi_02048666486.html": {
+      "title": "Indraprastha Apollo Hospitals New Delhi (JCI)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html",
+      "city_hub_title": "New Delhi (Saket, Sarita Vihar and Dwarka) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "country_hub_title": "Medical Tourism in India",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/max-super-speciality-hospital-saket-jci.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital.html": {
+      "title": "JK Plastic Surgery Hospital",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "city_hub_title": "Medical Tourism in Gangnam Medical District (Seoul)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "country_hub_title": "Medical Tourism in South Korea",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html",
+        "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html",
+        "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital_01082115315.html": {
+      "title": "JK Plastic Surgery Hospital",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "city_hub_title": "Medical Tourism in Gangnam Medical District (Seoul)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "country_hub_title": "Medical Tourism in South Korea",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html",
+        "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html",
+        "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/kbc-zagreb-draskoviceva-traumatology.html": {
+      "title": "KBC Zagreb - Draskoviceva Traumatology Campus",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html",
+      "country_hub_title": "Medical Tourism in Croatia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/kbc-zagreb-salata-campus-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/kbc-zagreb-salata-campus-international.html": {
+      "title": "KBC Zagreb - Salata Campus",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html",
+      "country_hub_title": "Medical Tourism in Croatia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/kbc-zagreb-draskoviceva-traumatology.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/king-faisal-specialist-hospital.html": {
+      "title": "King Faisal Specialist Hospital & Research Centre Riyadh",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-saudi-arabia.html",
+      "country_hub_title": "Medical Tourism in Saudi Arabia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/dr-sulaiman-al-habib-hospital-al-olaya.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/king-hamad-university-hospital.html": {
+      "title": "King Hamad University Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-bahrain-accredited.html",
+      "country_hub_title": "Medical Tourism in Bahrain",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/bahrain-specialist-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/king-hussein-cancer-center.html": {
+      "title": "King Hussein Cancer Center",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-jordan-accredited.html",
+      "country_hub_title": "Medical Tourism in Jordan",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/abdali-medical-center-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/max-super-speciality-hospital-saket-jci.html": {
+      "title": "Max Super Speciality Hospital Saket (JCI)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/new-delhi-saket-sarita-vihar-and-dwarka.html",
+      "city_hub_title": "New Delhi (Saket, Sarita Vihar and Dwarka) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "country_hub_title": "Medical Tourism in India",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/indraprastha-apollo-hospitals-new-delhi.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html": {
+      "title": "Medanta — The Medicity (Gurugram, INDIA)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/gurugram-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Gurugram Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "country_hub_title": "Medical Tourism in India",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/medanta-medicity.html"
       ],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/medanta-medicity.html": {
+      "title": "ميدانتا – ذا ميديسيتي (Medanta — The Medicity) (غوروغرام) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_565.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في غوروغرام",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_754.html",
+      "country_hub_title": "دليل السفر العلاجي إلى الهند — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html"
       ],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/medica-sur-international-patient-desk.html": {
+      "title": "Médica Sur",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "country_hub_title": "Medical Tourism in Mexico",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/centro-medico-abc-campus-observatorio.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html": {
+      "title": "Memorial Bahçelievler (Istanbul, TURKEY)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/istanbul-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Istanbul Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-turkiye-accredited.html",
+      "country_hub_title": "Medical Tourism in Türkiye",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html"
       ],
       "same_city_hospitals": [
-        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html",
-        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html"
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html"
       ]
     },
     "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler.html": {
+      "title": "مستشفى ميموريال باهتشلي إيفلر (Memorial Bahçelievler) (إسطنبول) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_669.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في إسطنبول",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_424.html",
+      "country_hub_title": "دليل السفر العلاجي إلى تركيا — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/memorial-bahcelievler-istanbul-turkey.html"
       ],
       "same_city_hospitals": [
-        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html",
-        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center-istanbul-turkey.html"
+        "https://www.thesecretarybird.com/2026/11/anadolu-medical-center.html"
       ]
     },
     "https://www.thesecretarybird.com/2026/11/minsk-scientific-practical-center-for.html": {
+      "title": "Minsk Scientific-Practical Center for Surgery, Transplantology and Hematology (MNPMC)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-belarus-accredited.html",
+      "country_hub_title": "Medical Tourism in Belarus",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/nn-aleksandrov-republican-scientific.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/mount-elizabeth-hospital-orchard.html": {
+      "title": "Mount Elizabeth Hospital Orchard",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-singapore-accredited.html",
+      "country_hub_title": "Medical Tourism in Singapore",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/mount-elizabeth-novena-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/mount-elizabeth-novena-hospital.html": {
+      "title": "Mount Elizabeth Novena Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-singapore-accredited.html",
+      "country_hub_title": "Medical Tourism in Singapore",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/mount-elizabeth-hospital-orchard.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/muscat-private-hospital-international.html": {
+      "title": "Muscat Private Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-oman-accredited.html",
+      "country_hub_title": "Medical Tourism in Oman",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/aster-royal-hospital-al-ghubra.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/narayana-health-city-bengaluru-india.html": {
+      "title": "Narayana Health City (Bengaluru, INDIA)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/bengaluru-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Bengaluru Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
+      "country_hub_title": "Medical Tourism in India",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/narayana-health-city.html"
       ],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/narayana-health-city.html": {
+      "title": "مدينة نارايانا الصحية (Narayana Health City) (بنغالورو) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_829.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في بنغالورو",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_754.html",
+      "country_hub_title": "دليل السفر العلاجي إلى الهند — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/narayana-health-city-bengaluru-india.html"
       ],
       "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/national-medical-research-center-of.html": {
+      "title": "National Medical Research Center of Cardiology named after E.I. Chazov",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-russia-accredited.html",
+      "country_hub_title": "Medical Tourism in Russia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/burdenko-national-medical-research.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/nn-aleksandrov-republican-scientific.html": {
+      "title": "N.N. Aleksandrov Republican Scientific and Practical Center of Oncology and Medical Radiology",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-belarus-accredited.html",
+      "country_hub_title": "Medical Tourism in Belarus",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/minsk-scientific-practical-center-for.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/pantai-hospital-kuala-lumpur.html": {
+      "title": "Pantai Hospital Kuala Lumpur",
       "city_hub": "https://www.thesecretarybird.com/2026/11/kuala-lumpur-ampang-bangsar-and-bukit.html",
+      "city_hub_title": "Kuala Lumpur (Ampang, Bangsar and Bukit Bintang) Medical Tourism Hub",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-malaysia-accredited.html",
+      "country_hub_title": "Medical Tourism in Malaysia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/gleneagles-hospital-kuala-lumpur.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital.html": {
+      "title": "Peking Union Medical College Hospital (Beijing, CHINA)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Beijing Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html",
+      "country_hub_title": "Medical Tourism in China",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_0512443781.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/fuwai-hospital-cams-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_01205768358.html": {
+      "title": "Peking Union Medical College Hospital (PUMCH)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/beijing-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Beijing Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-china-accredited.html",
+      "country_hub_title": "Medical Tourism in China",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/fuwai-hospital-cams-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital_0512443781.html": {
+      "title": "مستشفى كلية اتحاد بكين الطبية (Peking Union Medical College Hospital) (بكين) — الدليل والملف الطبي المعتمد",
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_591.html",
+      "city_hub_title": "دليل المستشفيات والمراكز التخصصية في بكين",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_10.html",
+      "country_hub_title": "دليل السفر العلاجي إلى الصين — المستشفيات والفيزا والتكاليف",
       "translations": [
         "https://www.thesecretarybird.com/2026/11/peking-union-medical-college-hospital.html"
       ],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/fuwai-hospital-cams-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/rigshospitalet-blegdamsvej-quaternary.html": {
+      "title": "Rigshospitalet - Blegdamsvej Quaternary Campus",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-denmark-accredited.html",
+      "country_hub_title": "Medical Tourism in Denmark",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/rigshospitalet-finsen-center-for-cancer.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/rigshospitalet-finsen-center-for-cancer.html": {
+      "title": "Rigshospitalet - Finsen Center for Cancer and Organ Diseases",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-denmark-accredited.html",
+      "country_hub_title": "Medical Tourism in Denmark",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/rigshospitalet-blegdamsvej-quaternary.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/royale-hayat-hospital-international.html": {
+      "title": "Royale Hayat Hospital",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-kuwait-accredited.html",
+      "country_hub_title": "Medical Tourism in Kuwait",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/dar-al-shifa-hospital-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/samsung-medical-center-international.html": {
+      "title": "Samsung Medical Center",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-gangnam-medical.html",
+      "city_hub_title": "Medical Tourism in Gangnam Medical District (Seoul)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-south-korea.html",
+      "country_hub_title": "Medical Tourism in South Korea",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/asan-medical-center-international.html",
+        "https://www.thesecretarybird.com/2026/11/gng-hospital-apgujeong-international.html",
+        "https://www.thesecretarybird.com/2026/11/jk-plastic-surgery-hospital.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/sheikh-shakhbout-medical-city.html": {
+      "title": "Sheikh Shakhbout Medical City",
       "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
+      "city_hub_title": "Abu Dhabi Medical Tourism & Hospital Hub Guide",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
+      "country_hub_title": "Medical Tourism in United Arab Emirates",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital.html": {
+      "title": "SIMNSA Health Plan Hospital (Hospital Blue)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "city_hub_title": "Medical Tourism in Tijuana and Baja Corridor (Mexico)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "country_hub_title": "Medical Tourism in Mexico",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-angeles-tijuana-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/simnsa-health-plan-hospital-hospital_0647999107.html": {
+      "title": "SIMNSA Health Plan Hospital (Hospital Blue)",
       "city_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-tijuana-and-baja.html",
+      "city_hub_title": "Medical Tourism in Tijuana and Baja Corridor (Mexico)",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
+      "country_hub_title": "Medical Tourism in Mexico",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/hospital-angeles-tijuana-international.html"
+      ]
     }
   }
 }
