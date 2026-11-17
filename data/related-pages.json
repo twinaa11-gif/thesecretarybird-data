@@ -97,10 +97,10 @@
     "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-thailand-accredited.html",
-      "translations": [],
-      "same_city_hospitals": [
+      "translations": [
         "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html"
-      ]
+      ],
+      "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_02095926583.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/bangkok-medical-tourism-hospital-hub.html",
@@ -111,10 +111,10 @@
     "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital_0829848184.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_585.html",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_45.html",
-      "translations": [],
-      "same_city_hospitals": [
+      "translations": [
         "https://www.thesecretarybird.com/2026/11/bumrungrad-international-hospital.html"
-      ]
+      ],
+      "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/burdenko-national-medical-research.html": {
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-russia-accredited.html",
@@ -167,18 +167,18 @@
     "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-united-arab-emirates.html",
-      "translations": [],
-      "same_city_hospitals": [
+      "translations": [
         "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html"
-      ]
+      ],
+      "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_868.html",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_462.html",
-      "translations": [],
-      "same_city_hospitals": [
+      "translations": [
         "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi-abu-dhabi.html"
-      ]
+      ],
+      "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/cleveland-clinic-abu-dhabi_0692631550.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/abu-dhabi-medical-tourism-hospital-hub.html",
@@ -354,18 +354,18 @@
     "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/gurugram-medical-tourism-hospital-hub.html",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-india-accredited.html",
-      "translations": [],
-      "same_city_hospitals": [
+      "translations": [
         "https://www.thesecretarybird.com/2026/11/medanta-medicity.html"
-      ]
+      ],
+      "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/medanta-medicity.html": {
       "city_hub": "https://www.thesecretarybird.com/2026/11/blog-post_565.html",
       "country_hub": "https://www.thesecretarybird.com/2026/11/blog-post_754.html",
-      "translations": [],
-      "same_city_hospitals": [
+      "translations": [
         "https://www.thesecretarybird.com/2026/11/medanta-medicity-gurugram-india.html"
-      ]
+      ],
+      "same_city_hospitals": []
     },
     "https://www.thesecretarybird.com/2026/11/medica-sur-international-patient-desk.html": {
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-mexico-accredited.html",
