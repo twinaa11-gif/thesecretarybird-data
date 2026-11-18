@@ -8,16 +8,16 @@
   "catalog_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/Contents.html",
   "covers": {
     "01": {
-      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
     },
     "02": {
-      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
     },
     "03": {
-      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+      "card_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+      "cover_webp": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
     }
   },
   "languages": {
@@ -53,8 +53,8 @@
           "pdf_path": "en/SecretaryBird_01_The_Care_Journey_EN.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/en/SecretaryBird_01_The_Care_Journey_EN.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/en/SecretaryBird_01_The_Care_Journey_EN.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -75,8 +75,8 @@
           "pdf_path": "en/SecretaryBird_02_The_Destination_Edit_EN.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/en/SecretaryBird_02_The_Destination_Edit_EN.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/en/SecretaryBird_02_The_Destination_Edit_EN.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -97,8 +97,8 @@
           "pdf_path": "en/SecretaryBird_03_The_Recovery_Companion_EN.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/en/SecretaryBird_03_The_Recovery_Companion_EN.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/en/SecretaryBird_03_The_Recovery_Companion_EN.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -134,8 +134,8 @@
           "pdf_path": "ru/SecretaryBird_01_The_Care_Journey_RU.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ru/SecretaryBird_01_The_Care_Journey_RU.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ru/SecretaryBird_01_The_Care_Journey_RU.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -156,8 +156,8 @@
           "pdf_path": "ru/SecretaryBird_02_The_Destination_Edit_RU.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ru/SecretaryBird_02_The_Destination_Edit_RU.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ru/SecretaryBird_02_The_Destination_Edit_RU.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -178,8 +178,8 @@
           "pdf_path": "ru/SecretaryBird_03_The_Recovery_Companion_RU.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ru/SecretaryBird_03_The_Recovery_Companion_RU.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ru/SecretaryBird_03_The_Recovery_Companion_RU.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -215,8 +215,8 @@
           "pdf_path": "ar/SecretaryBird_01_The_Care_Journey_AR.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ar/SecretaryBird_01_The_Care_Journey_AR.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ar/SecretaryBird_01_The_Care_Journey_AR.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -237,8 +237,8 @@
           "pdf_path": "ar/SecretaryBird_02_The_Destination_Edit_AR.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ar/SecretaryBird_02_The_Destination_Edit_AR.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ar/SecretaryBird_02_The_Destination_Edit_AR.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -259,8 +259,8 @@
           "pdf_path": "ar/SecretaryBird_03_The_Recovery_Companion_AR.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ar/SecretaryBird_03_The_Recovery_Companion_AR.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ar/SecretaryBird_03_The_Recovery_Companion_AR.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -296,8 +296,8 @@
           "pdf_path": "uk/SecretaryBird_01_The_Care_Journey_UK.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/uk/SecretaryBird_01_The_Care_Journey_UK.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/uk/SecretaryBird_01_The_Care_Journey_UK.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -318,8 +318,8 @@
           "pdf_path": "uk/SecretaryBird_02_The_Destination_Edit_UK.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/uk/SecretaryBird_02_The_Destination_Edit_UK.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/uk/SecretaryBird_02_The_Destination_Edit_UK.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -340,8 +340,8 @@
           "pdf_path": "uk/SecretaryBird_03_The_Recovery_Companion_UK.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/uk/SecretaryBird_03_The_Recovery_Companion_UK.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/uk/SecretaryBird_03_The_Recovery_Companion_UK.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -377,8 +377,8 @@
           "pdf_path": "kk/SecretaryBird_01_The_Care_Journey_KK.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/kk/SecretaryBird_01_The_Care_Journey_KK.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/kk/SecretaryBird_01_The_Care_Journey_KK.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -399,8 +399,8 @@
           "pdf_path": "kk/SecretaryBird_02_The_Destination_Edit_KK.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/kk/SecretaryBird_02_The_Destination_Edit_KK.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/kk/SecretaryBird_02_The_Destination_Edit_KK.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -421,8 +421,8 @@
           "pdf_path": "kk/SecretaryBird_03_The_Recovery_Companion_KK.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/kk/SecretaryBird_03_The_Recovery_Companion_KK.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/kk/SecretaryBird_03_The_Recovery_Companion_KK.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -458,8 +458,8 @@
           "pdf_path": "ja/SecretaryBird_01_The_Care_Journey_JA.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ja/SecretaryBird_01_The_Care_Journey_JA.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ja/SecretaryBird_01_The_Care_Journey_JA.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -480,8 +480,8 @@
           "pdf_path": "ja/SecretaryBird_02_The_Destination_Edit_JA.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ja/SecretaryBird_02_The_Destination_Edit_JA.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ja/SecretaryBird_02_The_Destination_Edit_JA.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -502,8 +502,8 @@
           "pdf_path": "ja/SecretaryBird_03_The_Recovery_Companion_JA.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ja/SecretaryBird_03_The_Recovery_Companion_JA.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ja/SecretaryBird_03_The_Recovery_Companion_JA.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -539,8 +539,8 @@
           "pdf_path": "it/SecretaryBird_01_The_Care_Journey_IT.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/it/SecretaryBird_01_The_Care_Journey_IT.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/it/SecretaryBird_01_The_Care_Journey_IT.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -561,8 +561,8 @@
           "pdf_path": "it/SecretaryBird_02_The_Destination_Edit_IT.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/it/SecretaryBird_02_The_Destination_Edit_IT.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/it/SecretaryBird_02_The_Destination_Edit_IT.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -583,8 +583,8 @@
           "pdf_path": "it/SecretaryBird_03_The_Recovery_Companion_IT.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/it/SecretaryBird_03_The_Recovery_Companion_IT.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/it/SecretaryBird_03_The_Recovery_Companion_IT.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -620,8 +620,8 @@
           "pdf_path": "es/SecretaryBird_01_The_Care_Journey_ES.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/es/SecretaryBird_01_The_Care_Journey_ES.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/es/SecretaryBird_01_The_Care_Journey_ES.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -642,8 +642,8 @@
           "pdf_path": "es/SecretaryBird_02_The_Destination_Edit_ES.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/es/SecretaryBird_02_The_Destination_Edit_ES.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/es/SecretaryBird_02_The_Destination_Edit_ES.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -664,8 +664,8 @@
           "pdf_path": "es/SecretaryBird_03_The_Recovery_Companion_ES.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/es/SecretaryBird_03_The_Recovery_Companion_ES.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/es/SecretaryBird_03_The_Recovery_Companion_ES.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -701,8 +701,8 @@
           "pdf_path": "id/SecretaryBird_01_The_Care_Journey_ID.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/id/SecretaryBird_01_The_Care_Journey_ID.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/id/SecretaryBird_01_The_Care_Journey_ID.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -723,8 +723,8 @@
           "pdf_path": "id/SecretaryBird_02_The_Destination_Edit_ID.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/id/SecretaryBird_02_The_Destination_Edit_ID.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/id/SecretaryBird_02_The_Destination_Edit_ID.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -745,8 +745,8 @@
           "pdf_path": "id/SecretaryBird_03_The_Recovery_Companion_ID.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/id/SecretaryBird_03_The_Recovery_Companion_ID.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/id/SecretaryBird_03_The_Recovery_Companion_ID.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -782,8 +782,8 @@
           "pdf_path": "pt/SecretaryBird_01_The_Care_Journey_PT.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pt/SecretaryBird_01_The_Care_Journey_PT.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pt/SecretaryBird_01_The_Care_Journey_PT.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -804,8 +804,8 @@
           "pdf_path": "pt/SecretaryBird_02_The_Destination_Edit_PT.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pt/SecretaryBird_02_The_Destination_Edit_PT.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pt/SecretaryBird_02_The_Destination_Edit_PT.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -826,8 +826,8 @@
           "pdf_path": "pt/SecretaryBird_03_The_Recovery_Companion_PT.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pt/SecretaryBird_03_The_Recovery_Companion_PT.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pt/SecretaryBird_03_The_Recovery_Companion_PT.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -863,8 +863,8 @@
           "pdf_path": "de/SecretaryBird_01_The_Care_Journey_DE.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/de/SecretaryBird_01_The_Care_Journey_DE.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/de/SecretaryBird_01_The_Care_Journey_DE.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -885,8 +885,8 @@
           "pdf_path": "de/SecretaryBird_02_The_Destination_Edit_DE.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/de/SecretaryBird_02_The_Destination_Edit_DE.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/de/SecretaryBird_02_The_Destination_Edit_DE.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -907,8 +907,8 @@
           "pdf_path": "de/SecretaryBird_03_The_Recovery_Companion_DE.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/de/SecretaryBird_03_The_Recovery_Companion_DE.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/de/SecretaryBird_03_The_Recovery_Companion_DE.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -944,8 +944,8 @@
           "pdf_path": "fr/SecretaryBird_01_The_Care_Journey_FR.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/fr/SecretaryBird_01_The_Care_Journey_FR.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/fr/SecretaryBird_01_The_Care_Journey_FR.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -966,8 +966,8 @@
           "pdf_path": "fr/SecretaryBird_02_The_Destination_Edit_FR.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/fr/SecretaryBird_02_The_Destination_Edit_FR.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/fr/SecretaryBird_02_The_Destination_Edit_FR.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -988,8 +988,8 @@
           "pdf_path": "fr/SecretaryBird_03_The_Recovery_Companion_FR.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/fr/SecretaryBird_03_The_Recovery_Companion_FR.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/fr/SecretaryBird_03_The_Recovery_Companion_FR.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -1025,8 +1025,8 @@
           "pdf_path": "pl/SecretaryBird_01_The_Care_Journey_PL.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pl/SecretaryBird_01_The_Care_Journey_PL.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pl/SecretaryBird_01_The_Care_Journey_PL.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -1047,8 +1047,8 @@
           "pdf_path": "pl/SecretaryBird_02_The_Destination_Edit_PL.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pl/SecretaryBird_02_The_Destination_Edit_PL.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pl/SecretaryBird_02_The_Destination_Edit_PL.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -1069,8 +1069,8 @@
           "pdf_path": "pl/SecretaryBird_03_The_Recovery_Companion_PL.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/pl/SecretaryBird_03_The_Recovery_Companion_PL.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/pl/SecretaryBird_03_The_Recovery_Companion_PL.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -1106,8 +1106,8 @@
           "pdf_path": "hi/SecretaryBird_01_The_Care_Journey_HI.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/hi/SecretaryBird_01_The_Care_Journey_HI.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/hi/SecretaryBird_01_The_Care_Journey_HI.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -1128,8 +1128,8 @@
           "pdf_path": "hi/SecretaryBird_02_The_Destination_Edit_HI.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/hi/SecretaryBird_02_The_Destination_Edit_HI.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/hi/SecretaryBird_02_The_Destination_Edit_HI.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -1150,8 +1150,8 @@
           "pdf_path": "hi/SecretaryBird_03_The_Recovery_Companion_HI.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/hi/SecretaryBird_03_The_Recovery_Companion_HI.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/hi/SecretaryBird_03_The_Recovery_Companion_HI.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -1187,8 +1187,8 @@
           "pdf_path": "bn/SecretaryBird_01_The_Care_Journey_BN.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bn/SecretaryBird_01_The_Care_Journey_BN.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bn/SecretaryBird_01_The_Care_Journey_BN.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -1209,8 +1209,8 @@
           "pdf_path": "bn/SecretaryBird_02_The_Destination_Edit_BN.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bn/SecretaryBird_02_The_Destination_Edit_BN.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bn/SecretaryBird_02_The_Destination_Edit_BN.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -1231,8 +1231,8 @@
           "pdf_path": "bn/SecretaryBird_03_The_Recovery_Companion_BN.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bn/SecretaryBird_03_The_Recovery_Companion_BN.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bn/SecretaryBird_03_The_Recovery_Companion_BN.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -1268,8 +1268,8 @@
           "pdf_path": "bg/SecretaryBird_01_The_Care_Journey_BG.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bg/SecretaryBird_01_The_Care_Journey_BG.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bg/SecretaryBird_01_The_Care_Journey_BG.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -1290,8 +1290,8 @@
           "pdf_path": "bg/SecretaryBird_02_The_Destination_Edit_BG.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bg/SecretaryBird_02_The_Destination_Edit_BG.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bg/SecretaryBird_02_The_Destination_Edit_BG.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -1312,8 +1312,8 @@
           "pdf_path": "bg/SecretaryBird_03_The_Recovery_Companion_BG.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/bg/SecretaryBird_03_The_Recovery_Companion_BG.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/bg/SecretaryBird_03_The_Recovery_Companion_BG.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     },
@@ -1349,8 +1349,8 @@
           "pdf_path": "ro/SecretaryBird_01_The_Care_Journey_RO.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ro/SecretaryBird_01_The_Care_Journey_RO.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ro/SecretaryBird_01_The_Care_Journey_RO.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-01-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-01-cover.webp"
         },
         {
           "number": "02",
@@ -1371,8 +1371,8 @@
           "pdf_path": "ro/SecretaryBird_02_The_Destination_Edit_RO.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ro/SecretaryBird_02_The_Destination_Edit_RO.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ro/SecretaryBird_02_The_Destination_Edit_RO.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-02-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-02-cover.webp"
         },
         {
           "number": "03",
@@ -1393,8 +1393,8 @@
           "pdf_path": "ro/SecretaryBird_03_The_Recovery_Companion_RO.pdf",
           "pdf_url": "https://twinaa11-gif.github.io/thesecretarybird-magazines/ro/SecretaryBird_03_The_Recovery_Companion_RO.pdf",
           "raw_pdf_url": "https://raw.githubusercontent.com/twinaa11-gif/thesecretarybird-magazines/main/ro/SecretaryBird_03_The_Recovery_Companion_RO.pdf",
-          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-card.webp",
-          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@main/media/magazines/edition-03-cover.webp"
+          "card_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-card.webp",
+          "cover_image": "https://cdn.jsdelivr.net/gh/twinaa11-gif/thesecretarybird-data@v6.3.0/media/magazines/edition-03-cover.webp"
         }
       ]
     }
