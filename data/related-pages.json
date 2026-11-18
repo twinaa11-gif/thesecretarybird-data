@@ -702,14 +702,18 @@
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html",
       "country_hub_title": "Medical Tourism in Croatia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/kbc-zagreb-salata-campus-international.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/kbc-zagreb-salata-campus-international.html": {
       "title": "KBC Zagreb - Salata Campus",
       "country_hub": "https://www.thesecretarybird.com/2026/11/medical-tourism-in-croatia-accredited.html",
       "country_hub_title": "Medical Tourism in Croatia",
       "translations": [],
-      "same_city_hospitals": []
+      "same_city_hospitals": [
+        "https://www.thesecretarybird.com/2026/11/kbc-zagreb-draskoviceva-traumatology.html"
+      ]
     },
     "https://www.thesecretarybird.com/2026/11/king-faisal-specialist-hospital.html": {
       "title": "King Faisal Specialist Hospital & Research Centre Riyadh",
